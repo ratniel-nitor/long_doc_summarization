@@ -1,0 +1,66 @@
+# IDE and Editor Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Compiled Source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages and Archives
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and Databases
+*.log
+*.sql
+*.sqlite
+
+# Build Directories
+build/
+dist/
+out/
+
+# Environment Files
+.env
+.env.local
+.env.*.local
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Cache and Temporary Files
+*.cache
+*.tmp
+*.temp
+
+# PDF Files
+*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Miscellaneous
+*.bak
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
