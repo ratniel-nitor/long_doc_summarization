@@ -34,9 +34,7 @@ No. _____/2022 @ SLP (C) No. _____/2022 @ Diary No(s). 39525/2017; C.A. No. ____
 No. 12304/2018; C.A. No. _____/2022 @ SLP (C) No. _____/2022 @ Diary No(s). 44856/2018; 
 C.A. No. _____/2022 @ SLP(C) No. 6553/2019; C.A. No. _____/2022 @ SLP (C) No. 
 ____ _/2022 @ Diary No(s). 15525/2019; C.A. No. _____/2022 @ SLP(C) No. 30597/2018; C.A. 
-No. _____/2022 @ SLP (C) No. _____/2022 @ Diary No(s). 5683/2019; C.A. No. _____/2022
-
-@ SLP (C) No. _____/2022 @ Diary No(s). 15488/2019; C.A. No. _____/2022 @ SLP (C) No. 
+No. _____/2022 @ SLP (C) No. _____/2022 @ Diary No(s). 5683/2019; C.A. No. _____/2022@ SLP (C) No. _____/2022 @ Diary No(s). 15488/2019; C.A. No. _____/2022 @ SLP (C) No. 
 _____/2022 @ Diary No(s). 15489/2019; C.A. No. _____/2022 @ SLP(C) No. 15055/2019; C.A. 
 No. _____/2022 @ SLP(C) No. 15079/2019; C.A. No. _____/2022 @ SLP(C) No. 14995/2019; 
 C.A. No. _____/2022 @ SLP (C) No. _____/2022 @ Diary No(s). 21237/2019; C.A. No. 
@@ -68,9 +66,7 @@ C.A. No. _____/2022 @ SLP(C) No. 11683/202 1
  
 JUDGMENT  
  
-S. RA VINDRA BHAT, J.
-
-Index  
+S. RA VINDRA BHAT, J.Index  
 I. Brief history of legislative changes and this court’s interpretation  ................................ ..........................  5 
 A. Provisions of the Income Tax Act, 1922  ................................ ................................ ................................ ..... 5 
 B. The new law: Income Tax Act, 1961  ................................ ................................ ................................ ...........  8 
@@ -108,9 +104,7 @@ D. Trade promotion bodies  ................................ ....................
 E. Non-statutory bodies  ................................ ................................ ................................ ...............................  144 
 F. Sports associations ................................ ................................ ................................ ................................ .. 145 
 G. Private Trusts  ................................ ................................ ................................ ................................ ..........  145 
-H. Application of interpretation ................................ ................................ ................................ ...................  146
-
-1. Leave grante d in all matters where leave has not already been granted.  
+H. Application of interpretation ................................ ................................ ................................ ...................  1461. Leave grante d in all matters where leave has not already been granted.  
 C.A. No. 21762/2017 ( Assistant Commission of Income Tax, Exemptions v. 
 Ahmedabad Urban Development Authority ) is taken as the lead matter .  
 2.  Religious and charitable trusts have existed in one form or the other, tracing 
@@ -140,8 +134,6 @@ which falls for consideration i s the correct interpretation of the proviso to S
 Citations:
 1: Sections 11, 12, 12 -A and 13 of the Income -tax Act, 1961.
 
-
-
 2(15)2 of the IT Act  introduced by amendment w.e.f. 01.04.2009. It is necessary, 
 at this stage, to notice that the IT Act visualized three kinds of charitable 
 purposes: medical relief, education, and relief for the poor – which are described 
@@ -168,8 +160,6 @@ activity, provided trust s were created thereon.  The Privy Council in  The Trus
 Citations:
 2: “charitable purpose” includes relief of the poor, education, medical relief, preservation of environment (including watersheds, forests and wildlife) and preservation of monuments or places or objects of artistic or historic interest, and the advancement of any other object of general public utility: Provided that the advancement of any other object of general public utility shall not be a charitable purpose, if it involves the carrying on of any activity in the nature of trad e, commerce or business, or any activity of rendering any service in relation to any trade, commerce or business, for a cess or fee or any other consideration, irrespective of the nature of use or application, or retention, of the income from such activity :..…” (emphasis supplied)
 
-
-
 of Tribune Press, Lahore v. CIT, Punjab3 (hereafter “ In Re: Trustees of the 
 Tribune ”) held that the income of the Tribune Press fell within section 4(3)(i) of 
 the old Act, and it was implied that income from the press was derived from 
@@ -193,8 +183,6 @@ Citations:
 4: In Commissioner of Income Tax v. P. Krishna Warriar , (1964) 8 SCR 36 : (1964) 53 ITR 176 this court, citing and relying on In re, Trustees of the Tribune  [(1939) ITR 415 PC] held that: “This Court in  J.K. Trust, Bombay  v. Commissioner of Income Tax, Excess Profits Tax, Bombay  [(1957) 32 ITR 535] endorsed the said view and held that “property” is a term of the widest import and that business would undoubtedly be property unless there was something to the contrary in the enactment. If business was property, it could be held under trust for religious and char itable purposes. As the business of running the Arya Vaidya Sala vested under trust for religious and charitable purposes, it would fall under clause (i), if the other conditions laid down therein were satisfied.”
 5: Section 4(3) of the Indian Income -tax (Amendment) Act, 1939, reads as follows: “(3) Any income, profits or gains falling within the following classes shall not be included in the total income of the person receiving them:] (i) Subject to the provisions of clause (c) of sub -section (1) of section 16, any income derived from property held under trust or other legal obligation wholly for religious or charitable purposes, in so far as such income is applied or accumulated for application to such religious or charitable purposes as relate to an ything done within the taxable territories, and in the case of property so held in part only for such purposes, the income applied or finally set apart for application thereto: (ia) Any income derived from business carried on on behalf of a religious or ch aritable institution when the income is applied solely to the purposes of the institution and - (a) the business is carried on in the course of the carrying out of a primary purpose of the institution, or (b) the work in connection with the business is mainly carried on by beneficiaries of the institution”
 6: (1944) 12 ITR 385
-
-
 
 charitable  institutions which were not held under trust and not to such 
 business as was itself held under trust or was conducted by or on b ehalf of 
@@ -220,8 +208,6 @@ for religious or charitable  purposes. It also takes in such property held only
 Citations:
 7: Section 4 of Finance Act, 1953 added proviso to Section 4(3)(i); it reads as follows: “Provided that such income shall be included in the total income — [(a) if it is applied to religious or charitable purposes without the taxable territories, but in the following cases, namely: — (i) where the property is held under trust or other legal obligation created before the commencement of the -Indian Income -tax (Amendment) Act,  1953 (XXV of 1953), and the income therefrom is applied to such purposes without the taxable territories; and (ii) where the property is held under trust or other legal obligation created after such commencement, and the income therefrom is applied withou t the taxable territories to charitable purposes which tend to promote international welfare in which India is interested, the Central Board of Revenue may, by general or special order, direct that it shall not be included in the total income;] (b) in the case of income derived from business carried on on behalf of a religious or charitable institution, unless the income is applied wholly for the purposes of the institution and either — (i) the business is carried on in the course of the actual carrying out of a primary purpose of the institution, or (ii) the work in connection with the business is mainly carried on by beneficiaries of the institution; (c) if it is applied to purposes other than religious or charitable purposes or ceases to be accumulated or set apart for application thereto in which case it shall be deemed to be the income of the year in which it is so applied or ceases to be so accumulated or set apart.]”
 8: (1964) 8 SCR 36: (1964) 53 ITR 176
-
-
 
 in part for such purposes. Business is also property within the meaning of 
 said clause. Clause  (b) of the proviso to section 4(3)(i) applies only to 
@@ -260,8 +246,6 @@ involving the carrying on of any activity for profit.”
 Citations:
 9: (1965) 1 SCR 565  (hereafter “ Andhra Chamber of Commerce”)
 10: (1944) 12 ITR 482  (hereafter “ All India Spinners Association of Mirzapur”)
-
-
 
 10. The then Finance Minister , Mr. Morarji Desai, explained the rationale for 
 the new definition  on the floor of Lok Sabha:  
@@ -304,8 +288,6 @@ Citations:
 11: (LVI)  Lok Sabha Debates. , 32nd scs., p. 3073 (August 18, 1961).
 12: (1976) 1 SCC 254  (hereafter “ Lok Shikshana Trust ”)
 
-
-
 of transactions. It predicates a motive which pervades the whole series of 
 transactions effected by the person in the course of his activity ….” 
 The court also rejected t he submission that the “profit” referred to meant private  
@@ -339,8 +321,6 @@ is ordinarily assumed to be for profit unless expressly or by neces sary
 
 Citations:
 13: (1976) 1 SCC 324  (hereafter “ Indian Chamber of Commerce” )
-
-
 
 implication or by eloquent surrounding circumstances the making of profit 
 stands loudly negatived. We will illustrate to illumine. If there is a restrictive 
@@ -390,8 +370,6 @@ Companies Act, 1956 corresponding to Section 8 of the Companies Act, 2013)
 Citations:
 14: (1980) 2 SCC 31  (hereafter “ Surat Art Silk” )
 
-
-
 non-profit compa ny was established. It  claim ed exemption as an institution  with  
 charitable purposes as its objectives. The objects of the company included 
 promoting  commerce and tr ade in Art Silk yarn, raw silk, cotton yarn, Art Silk 
@@ -418,8 +396,6 @@ because the object of private profit was elimi nated by the recognition of the
 
 Citations:
 15: The list of objects were as follows: “(a) To promote commerce and trade in Art Silk Yarn, Raw Silk, Cotton Yarn, Art Silk Cloth, Silk Cloth and Cotton Cloth. (b) To carry on all and any of the business of Art Silk Yarn, Raw Silk, Cotton Yarn as well as Art Silk Cloth, Silk Cloth and Cotton Cloth belonging to and on behalf of the members. (c) To obtain import licences for import of Art Silk Yarn, Raw Silk, Cotton Ya rn and other raw materials as well as accessories required by the members for the manufacture of Art Silk, Silk and Cotton Fabrics. (d) To obtain export licences and export cloth manufactured by the members. (e) To buy and sell and deal in all kinds of clo th and other goods and fabrics belonging to and on behalf of the members. (n) To do all other lawful things as are incidental or conducive to the attainment of the above objects.”
-
-
 
 assessee under section 25 of the Companies Act, 1956 and clauses 5 and 10 
 of its Memorandum. It must, therefore, be held that the income and property 
@@ -467,8 +443,6 @@ again is what do we understand by these verbal labels or formulae; what is it
 
 Citations:
 16: This decision was reversed in Indian Chamber of Commerce v . Commissioner o f Income Tax  (1976) 1 SCC 324
-
-
 
 precisely that they mean? Now there are two possible ways of looking at this 
 problem of construction. One interpretation is that according to the definition 
@@ -519,9 +493,7 @@ correct to describe it as an activity for profit. But where, on the other hand,
 an activity is carried on with the predominant object of earning profit, it 
 would be an activity for profit, though it may be carried on in advancement 
 of the charitable purpose of the trust or institution. Where an activity is 
-carried on as a matter of advancement of the charitable purpose or for the
-
-purpose of carrying out the charitable purpose, it would not be incorrect to 
+carried on as a matter of advancement of the charitable purpose or for thepurpose of carrying out the charitable purpose, it would not be incorrect to 
 say as a matter of plain English grammar that the charitable purpose involves 
 the carrying on of such activity, but the predominant object of such activity 
 must be to subserve the  charitable purpose and not to earn profit. The 
@@ -567,8 +539,6 @@ something to the contrary) that the trust’s object involved carrying on of an
 Citations:
 17: (1978) 3 SCC 499
 
-
-
 activity for profit. The Constitution Bench disagreed with the approach in both 
 the previous judgments, and observed:  
 “19. …Now we entirely agree with the learned Judges who decided these two 
@@ -613,9 +583,7 @@ mere fact that the activity yielded profit did not alter the charitable chara ct
 of the assessee. We are of the view that the Tribunal was right in taking the 
 view that the purpose for which the assessee was established was a charitable 
 purpose within the meaning of Section 2 clause (15) and the income of the 
-assessee was exempt f rom tax under Section 11. The question referred to us
-
-in each of these references must, therefore, be answered in favour of the 
+assessee was exempt f rom tax under Section 11. The question referred to usin each of these references must, therefore, be answered in favour of the 
 assessee and against the Revenue.”  
  
 19. There was, however, a discordant note in Surat Art Silk  - A.P. Sen, J 
@@ -649,8 +617,6 @@ Citations:
 18: Through the Taxation Laws Amendment Act, 1975.
 19: Section 13 - Section 11 not to apply in certain cases.
 
-
-
 derived from such business, unless the business is carried on in the course of 
 the actual carrying out  of a primary purpose of the trust or institution”  
  
@@ -678,8 +644,6 @@ Citations:
 20: Section 11(4) as originally enacted, reads as follows: “For the purposes of this section ‘property held under trust’ includes a business undertaking so held, and where a claim is made that the income of any such undertaking shall not be included in the t otal income of the persons in receipt thereof, the Income Tax Officer shall have power to determine the income of such undertaking in accordance with the provisions of this Act relating to assessment; and where any income so determined is in excess of the income as shown in the accounts of the undertaking, such excess shall be deemed to be applied to purposes other than charitable or religious purposes .”
 21: Earlier, sub -section (4A) was inserted by the Finance Act, 1983, w.e.f. 01.04.1984, and read as follows: “(4A) Sub-section (1) or sub -section (2) or sub -section (3) or sub -section (3A) shall not apply in relation to any income of a trust or an institution , being profits and gains of business, unless (a) the business is carried on by a trust wholly for public religious purposes and the business consists of printing and publication of books or is of a kind notified by the Central Government in this behalf in the Official Gazette; (b) the business is carried on by an institution wholly for charitable purposes and the work in connection with the business is mainly carried on by the beneficiaries of the institution; and separate books of accounts are maintained by the t rust or institution in respect of such business”
 22: (2001) 2 SCC 707; (2001) 1 SCR 727.
-
-
 
 reading public and to disseminate news and to ventilate opinion upon all matters 
 of public interest through it.” could avail of tax exemption.  In 1957, the settl or 
@@ -712,9 +676,7 @@ is not only for public religious purposes so it does not fall within clause (a).
 It is a Trust not an institution, so it does not fall within claus e (b). It must, 
 therefore, be held that for the assessment years in question the Trust was not 
 entitled to the exemption contained in section 11 in respect of the income of 
-its newspaper.”
-
-23. For the third period  (1992 -93 to 1996 -97), the court dealt wit h the meaning 
+its newspaper.”23. For the third period  (1992 -93 to 1996 -97), the court dealt wit h the meaning 
 and effect of Section 11(4A) (amended and substituted w.e.f. 01.04.1992) and 
 held that the assessee trust was entitled to be treated as a charity:  
 “25. The substituted sub -section (4A) states that the income derived from a 
@@ -749,9 +711,7 @@ and before deletion re ad as follows:
 “(20A) any income of an authority constituted in India by or under any law 
 enacted either for the purpose of dealing with and satisfying the need for 
 housing accommodation or for the purpose of planning, development or 
-improvement of cities,  towns and villages, or for both;”
-
-25. Similarly, Section 10 (23)23 existed and provided exemption to income 
+improvement of cities,  towns and villages, or for both;”25. Similarly, Section 10 (23)23 existed and provided exemption to income 
 earned by sport controlling boards, and associations, subject to specific 
 conditions. Section 10(23) read as follows, before its deletion:  
 “(23) any income of an association or institution established in India which 
@@ -781,8 +741,6 @@ relief, [preservation of environment (including watersheds, forests and
 Citations:
 23: As amended by the Direct Tax Laws (Amendment) Act, 1987, w.e.f. 01.04.1989; Direct Tax Laws (Amendment) Act, 1989, w.e.f. 01.04.1989; substituted by the Direct Tax Law s (Amendment) Act, 1989, w.e.f. 01.04.1990; and further amended by the Finance (No. 2) Act, 1991, w.r.e.f. 01.04.1990; Finance Act, 1992, w.r.e.f. 01.04.1990/w.e.f. 01.04.1992; and Finance Act, 2000, w.e.f. 1 -4-2001.
 24: Deletion of the expression “ not involving the carrying on of any activity for profit ” and the resulting Section 2(15) read as follows: ““charitable purpose” includes relief of the poor, education, medical relief, and the advancement of any other object of general public utility.”
-
-
 
 wildlife) and preservation of monuments or places or objects of artistic or 
 historic interest, and the advancement of any other object of general public 
@@ -819,9 +777,7 @@ A. Arguments on behalf of the revenue
 “ASG”) tracing the genesis of Section 2(15) contended that the old IT Act 
 contained no restrictive expressions forbidding trade or business activities by 
 charities. He argued that decisions in  In Re: Trustees of the Tribune , Andhra 
-Chamber of Commerce and the decision in Krishna Warri ar (supra) were in light
-
-of Section 4(3) of the old Act; therefore, the contextual framework of this court’s 
+Chamber of Commerce and the decision in Krishna Warri ar (supra) were in lightof Section 4(3) of the old Act; therefore, the contextual framework of this court’s 
 decisions was entirely different. Those decisions cons equently did not rule out 
 carrying on of activities akin to business, by charitable institutions established to 
 advance general public utility.  
@@ -848,9 +804,7 @@ from tax, and would carry on large commercial activities, enjoying the profits .
 This led Par liament to embed the exclusionary terms, depriving exemption if the 
 institution otherwise fell under the GPU category  charity, but undertook activities 
 for profit. The ASG relied on the Finance Minister's speech in the House at the 
-time of the introduction  of the IT Act, and submitted that it outlines the rationale
-
-for the restrictive condition  noting that units  run on commercial lines could claim 
+time of the introduction  of the IT Act, and submitted that it outlines the rationalefor the restrictive condition  noting that units  run on commercial lines could claim 
 that some general public  utility was promoted and claim exemption . The Select 
 Committee of Parliament (at that time), felt that to prevent misuse of the 
 definition in such cases, the words “not involving the carrying on of any  activity 
@@ -881,9 +835,7 @@ charities cannot engage in commercial activities. The first was the amendment,
 carried out in 1975 to the IT Act (w.e.f. 01.04.1976), which introduced Section 
 10 (23C ) and had the effect of excluding income received by inter alia, any fund 
 or institution, established for charitable purposes. The said provision, to the extent 
-relevant, is extracted as follows:
-
-“10. In computing the total income of a previous year of any  person, any 
+relevant, is extracted as follows:“10. In computing the total income of a previous year of any  person, any 
 income falling within any of the following clauses shall not be included — 
 *******         ********
      
@@ -912,9 +864,7 @@ carrying on of any activity for profit) from claiming exemption, and to ensure t
 purely  charitable activity -driven trusts or institutions, could claim exemption. It 
 was submitted that the Constitution Bench fell into error, in holding t hat as long 
 as the ‘dominant ’ objective of the charity was to promote objects of general public 
-utility, they were entitled to exemption.
-
-35. The ASG further submitted that if the history of the provision, and the 
+utility, they were entitled to exemption.35. The ASG further submitted that if the history of the provision, and the 
 further amendments were kept in mind, the  question of permitting activities that 
 had any business or trade, for consideration, could not arise; however, by later 
 amendments, GPU category charities have been permitted to carry on activities 
@@ -944,8 +894,6 @@ established by or under statutes enacted by the Gujarat legislature; they were
 
 Citations:
 25: (1997) 7 SCC 339  (hereafter “ NDMC ”)
-
-
 
 treated as local authority under Section 10(20) of the IT Act, as it existed till 2003. 
 Thereafter they were treated as charitable institutions engaged in activities 
@@ -979,8 +927,6 @@ Citations:
 26: Gujarat Town Planning and Urban Development Act, 1976
 27: Gujarat Industrial Development Act, 1962 (referred to as “GIDA”)
 
-
-
 regulations framed under the GIDA, its constituting enactment, further to Section 
 32(2).  As far as GHB is concerned, learned counsel submitted that like the other 
 statutory corporations it was also established by virtue of a special law28. The 
@@ -1012,8 +958,6 @@ it was argued, i s whether the main or dominant purpose of business or activity 
 Citations:
 28: Gujarat Housing Board Act, 1961.
 
-
-
 motivated by profit. In such cases, the entity is debarred from claiming that it is 
 a charity and cannot claim the benefit of tax exemption. Therefore, what is to be 
 understood from the rati o in Surat Art Silk (supra) is that the main purpose or 
@@ -1043,8 +987,6 @@ purposes - any income derived from incidental trading or business activities,
 
 Citations:
 29: (1981) 3 SCC 308  (hereafter “ Bar Council of Maharashtra ”)
-
-
 
 would not result in it being ch aracterised as an entity carrying on business; in 
 other words, it was one carrying on a charitable objective or purpose.  
@@ -1077,8 +1019,6 @@ Citations:
 32: (2009) 16 SCC 208
 33: 2017 SCCOnline Bom 10021 (para 10 -12)
 34: (1965) 1 SCR 909  (hereafter “ Navnit Lal Jhaveri ”)
-
-
 
 executive’s understanding – in the form of circulars in the context of taxing 
 statutes – were valuable guides to interpretation. The observations in Navnit Lal 
@@ -1113,8 +1053,6 @@ Citations:
 37: (1995) 1 SCC 574
 38: (1967) 1 SCR 618
 
-
-
 generate surplus or money, they cannot be per se excluded from consideration for 
 tax benefit.  
 47. Learned Senior Counsel Mr. Kavin Gulati argued for NOIDA and relied 
@@ -1146,8 +1084,6 @@ Citations:
 42: (1976) 1 SCC 466
 43: (1976) 3 SCC 167
 
-
-
 49. It was lastly argued that the expression “trade” carries within it the idea of 
 profitability: counsel cited State of Gujarat v. Mahesh Dhiarjlal Thakkar44, Sodan  
 Singh & Ors. v New Delhi Municipal Committee & Ors45 and T.M.A Pai 
@@ -1176,8 +1112,6 @@ Citations:
 49: Promote rapid and orderly development of indus tries in the state.;  Assist in implementation of policies of Government within the purview of KIAD Act;  Facilitate in establishing infrastructure projects:  Function on “No Profit – No Loss” basis .
 50: • Section 5 – Established and incorporated for securing the establishment of industrial areas in the State of Karnataka and generally for promoting the rapid and orderly establishment and development of industries and for providing industrial infrastructu al facilities and amenity in industrial areas in the State of Karnataka. • Section 6 – All the members of the Board are government officials; • Section 46 - the members & other employees of the Respondent are deemed to be public servants. • Section 3 & 28 - Government of Karnataka (GOK) that acquires the land from the public. • Section 29 – GOK determines the price and pays the compensation. • Section 43 - No duty under the Karnataka Stamp Act, 1957, or fees under the Indian Registration Act, 1908.
 51: (2011)  6 SCC 714
-
-
 
 be regarded as trade or business. Reliance was placed upon State of Karnataka v . 
 All India Manufacturer’s Organisation52.   
@@ -1211,8 +1145,6 @@ Citations:
 56: Yogiraj Charity Trust v. CIT 1976 (3) SCR 947; Commissioner of Income Tax v. Andhra Pradesh Road Transport Corporation 1986 (1) SCR 570; Queens’s Educational Society v. CIT 2015 (8) SCC 47.
 572002: (2) SCR 743
 
-
-
 10(46). He urged that in terms of Section 11(7)58 the Board has an option to claim 
 exemption either under S ection 11 or under Section 10(46). There is no bar for 
 claiming exemption under either of those provisions.  
@@ -1239,8 +1171,6 @@ Government of India. It was registered as a charitable GPU category society in
 Citations:
 58: Inserted by Finance (2) Act, 2014 and amended by Finance Act, 2020
 59: (1996) 2 SCC 549. The court had cited Article 25(1) of the Universal Declaration of Human Rights and Article 11(1) of the International Covenant on Economic, Social an d Cultural Rights, 1966 and relied on Sri. P.G. Gupta v. State of Gujarat & Ors . 1995 (1) SCALE 653  - where a Bench of three Judges of this Court had considered the mandate of the human right to shelter and read it into Article 19(1)(e) and Article 21 of t he Constitution of India to guarantee the right to residence and settlement.
-
-
 
 1996. All the trade bodies60 as well Bureau of Indian Standards are members of 
 its governing council.  
@@ -1270,8 +1200,6 @@ enwrapped or enveloped in the activity of advancement, so that the resulting
 
 Citations:
 60: Federation of Chambers of Indian Commerce and Industry; Confederation of Indian Industry; Associated Chambers of Commerce and Industry of India  (ASSOCHAM); The  Agricultural and Processed Food Products Export Development Authority  (APEDA).
-
-
 
 activity has a dual nature or is twin faceted. The well -known principle of 
 construction, that where the legislature use s in an Act , a legal term which has 
@@ -1305,8 +1233,6 @@ Citations:
 62: (2010) 4 SCC 378
 63: 1964 (7) SCR 664
 
-
-
 crore (from FY -2007 -08 to 2020 -21), which given its financial condition will 
 jeopardise its existence and functioning.  
 59. Ms. Radhika Suri, learned counsel argued on behalf of Bhatinda 
@@ -1337,8 +1263,6 @@ Citations:
 64: ITA No. 78 of 2016
 65: Section 3 (2): - “ The board shall be a body corporate by the name aforesaid having perpetual succession and a common seal with power, subject to the provisions of this  Act to acquire, hold and dispose of property, both movable and immovable, and to contract, and may by th e said name sue and be sued.”
 66: Section 20 of the GMB Act
-
-
 
 minor ports in the State of Gujarat, and for all matters connected therewith. The 
 Board’s powers under the GMB Act apply to works carried out by GMB as 
@@ -1371,8 +1295,6 @@ Citations:
 68: Section 25(2) of the GMB Act
 69: Section 32 r/w S ections 37-30 of the GMB Act
 
-
-
 utilization of funds i s only for the purpose of development, management and 
 safety of minor ports; all these entitles GMB to exemption.  
 62. Mr. Rohit Jain, learned counsel, appeared on behalf of the Education and 
@@ -1400,9 +1322,7 @@ memorandum of association, without prior consent of the government. The
 “charitable” nature of the same has  also been upheld under Section 12A of the IT 
 Act, 1961.  
 64. Learned counsel submitted that ERNET is a “not for profit” society 
-wherein considering its objects, it receives only subscription fees mainly from
-
-schools, colleges, universities, scientific res earch institutes, etc. This subscription 
+wherein considering its objects, it receives only subscription fees mainly fromschools, colleges, universities, scientific res earch institutes, etc. This subscription 
 fees is charged on “actual basis” and utilized towards promotion of its objectives. 
 The charitable character of the assessee is apparent  and not in dispute since it has 
 been accepted by the revenue up to AY 2008 -09. Also, the final factual findings 
@@ -1433,8 +1353,6 @@ Citations:
 70: 321 ITR 73 (Del)
 71: 358 ITR 78 (Del)
 72: 360 ITR 138 (Del)
-
-
 
 are enabled  to promote trade. It was submitted that there is ex-officio involvement 
 on behalf of the Central Government, in the AEPC’s activities, including in its 
@@ -1470,8 +1388,6 @@ Citations:
 78: 1967 (1) SCR 618
 79: (1981) 2 All ER 147
 
-
-
 were cited; and reference was ma de to definitions in the Concise Oxford 
 Dictionary, Webster’s New Twentieth Century Dictionary, Black’s Law 
 Dictionary, and Sampath Iyengar’s Law of Income Tax.  
@@ -1503,8 +1419,6 @@ attracting the proviso did not arise.
 Citations:
 80: Reported at 244 ITR 736
 
-
-
 70. Ms. Prabha S wami, learned counsel submitted that the A.P State Seed 
 Certification Agency  is a statutory society set up under Section 881 of the Seeds 
 Act, 1966 which is represented by the representatives of Seedsmen Association, 
@@ -1535,8 +1449,6 @@ were aimed at public purpose, it applied for registration u/s 12AA of the IT Act
 Citations:
 81: “Section 8. The State Government or the Central Government in consultation with the State Government may, by notification in the Official Gazette, establish a certification agency for the State to carry out the functions entrusted to the certification agency by or under this Act ”.
 
-
-
 Section 10(20A) of  the IT Act, 1961 which was omitted by the Finance Act, 2002; 
 however, this did not restrict the assessee from getting registered under Section  
 12AA of IT Act, as the object of the authority is to provide shelter to homeless 
@@ -1565,9 +1477,7 @@ Surat Art Silk  supported silk manufacturers. If such activity is for a cess or 
 the organization ceases to be charitable. Activities  in the nature  of trade,  
 commerce  or business  are not charitable  if they are for a fee or other  
 consider ation.  Fees collected by the private  organizations forms the content of 
-Section 2(15). However, amounts based on tariff regulations imposed by the
-
-controlling law, or statute -based fee is neither “fee” nor “cess” under that 
+Section 2(15). However, amounts based on tariff regulations imposed by thecontrolling law, or statute -based fee is neither “fee” nor “cess” under that 
 provision. Further, the consider ation involved is vis-à-vis the activity or service. 
 The test is the object  for which the consideration is paid, and what it entails, 
 wherein the words “any other consideration” is for the activities in aid or service 
@@ -1592,9 +1502,7 @@ trading concerns.
 advance their objective of promot ing the sport. They should not be considered as 
 pursing activities in furtherance of trade, commerce or business. The word “cess” 
 has to be read down in reverse (reverse ejusdem generis)  and it should be read 
-non-statutorily  while adopting purposive interpretation of the same. Reliance was
-
-placed on Nabha Power Limited v. Punjab SPCL82 to state that a purposive 
+non-statutorily  while adopting purposive interpretation of the same. Reliance wasplaced on Nabha Power Limited v. Punjab SPCL82 to state that a purposive 
 interpretation of “cess”, is to be adopted.  
 76. It was also argued that the sport of cricket is a form of education and if it 
 is not considered as a field of education, it is still an object of general public 
@@ -1627,8 +1535,6 @@ Citations:
 83: (1980) 2 SCC 322
 84: Halsbury’s Laws of England, Vol. 32 para 487
 
-
-
 77. Likewise, with regard to “business” the counsel referred to H. Abdul Bakhi 
 & Bros . (supra) which had discussed the term and explained that any activity 
 should be driven by profit motive.85 Lastly, the judgment in Secretary, Ministry 
@@ -1650,8 +1556,6 @@ Citations:
 85: “the expression ‘business’ though extensively used is a word of indefinite import, in taxing statutes it is used in the sense of an occupation, or profession which occupies the time, attention and labour  of a person, normally with the object of making profit. To regard an activity as business there must be a course of dealings, either actually continued or contemplated to be continued with a profit motive, and not for sport or pleasure. But to be a dealer a person need not follow the activity of buying, selling and supplying the same commodity. Mere buying for personal consumption i.e. without a profit motive will not make a person a dealer within the meaning of the Act, but a person who consumes a commodi ty bought by him in the course of his trade, or use in manufacturing another commodity for sale, would be regarded as a dealer” .
 86: (1995) 2 SCC 161
 87: 15. Functions of Council  (1) The Institute shall function under the overall control, guidance and supervis ion of the Council and the duty of carrying out the provisions of this Act shall be vested in the Council. (2) In particular, and without prejudice to the generality of the foregoing powers, the duties of the Council shall include – (a) to approve academic courses and their contents; (b) the examination of candidates for enrolment and the prescribing of fees therefor; (c) the regulation of the engagement and training of articled and audit assistants; (d) the prescribing of qualifications for entr y in the Register; (e) the recognition of foreign qualifications and training for the purposes of enrolment; (f) the granting or refusal of certificates of practice under this Act; (g) the maintenance and publication of a Register of persons qualified t o practice as chartered accountants; (h) the levy and collection of fees from members, examinees and other persons; (i) subject to the orders of the appropriate authorities under the Act, the removal of names from the Register and the restoration to the Register of names which have been removed;
-
-
 
 holding of examinations for chartered accountancy course candidates and 
 regulation of engagement and training of articled clerks and audit assistants.  
@@ -1689,9 +1593,7 @@ the details of action taken thereon in its annual report; and
 other statutory duties as may be entrusted to the Institute from time to time.  
 88 (2005) 273 ITR 139 (Guj.)  
 89 (1992) 195 ITR 279 (Guj.)  
-90 (2008) 10 SCC 509
-
-argue that ICAI is entitled to be notified under Section 10(23C)(iv) r/w Section 
+90 (2008) 10 SCC 509argue that ICAI is entitled to be notified under Section 10(23C)(iv) r/w Section 
 2(15) of the Act, 1961.  
 81. Counsel submitted that profit motive is an essential element, or the driving 
 force, for any business or commercial activity. The activities of ICAI are not of 
@@ -1723,8 +1625,6 @@ Citations:
 93: (1997) 4 SCC 724
 94: (2003) 259 ITR 280 (SC)
 
-
-
 83. Learned senior counsel further relied on  the explanatory notes to the 
 provisions of the Finance Act, 2008, specifically towards amendment made to 
 Section 2(15) of the IT Act, aimed at streamlining the d efinition of “charitable 
@@ -1749,8 +1649,6 @@ Citations:
 95: "5. Streamlining the definition of “charitable purpose” 5.1 Sub -section (15) of section 2 of the Act defines “charitable purpose” to include relief of the poor, education, medical relief, and the advancement of any other object of general public utility. This is based on the argument that they are engaged in the “advancement of an obj ect of general public utility” as is included in the fourth limb of the current 12 It has been noticed that a number of entities operating   on commercial lines are claiming exemption on their income either under sub -section (23C) of section 10 or section 11 of the Act on the ground that they are charitable  institutions. This  is based on the argument that they are engaged in the “advancement of an object of general public utility” as is included in the fourth limb of the current  definition of “chari table purpose”. Such a claim, when made in respect of an activity carried out on commercial lines, is contrary to the intention of the provision. 5.2 With a view to limiting the scope of the phrase “advancement of any other   object of general public utili ty”, sub-section (15) of section 2 has been amended to   provide that the advancement of any other object of general public utility shall not be a charitable purpose, if it involves the carrying on of any activity in the nature of   trade, commerce or busin ess, or any activity of rendering any service in relation to   any trade, commerce or business, for a cess or fee or any other consideration,   irrespective of the nature of use or application, or retention, of the income from such activity.”
 96: (2016) 12 SCC  258
 97: 1981 SCC OnLine Del 457
-
-
 
 Commissioner of Income Tax98 to urge that these circulars are classified as 
 “beneficial”. They place a purposive interpretation on a statutory provision. Such 
@@ -1783,8 +1681,6 @@ Citations:
 98: (1972) 4 SCC 474
 99: ITA Nos. 62 of 2015 and 147 of 2016 (O&M)
 
-
-
 trustees were under a duty to dev ote the surplus income for the improvement of 
 the newspaper and hence prayed for allowing the appeal.  
 88. Upon this court’s query with respect to advancing submissions on the 
@@ -1811,9 +1707,7 @@ on cess or fee collected by a state would violate Art icle 289(1), hence the wor
 violative not only of Article 14 but of Article 289 as well, in the context of state 
 undertakings. For Central institutions, it was submitted that cess o r fee can never 
 fall within the definition of “income” under Section 2(24) read with Entry 82 of 
-List-I and cannot be subject to tax.
-
-C. Revenue’s rebuttal arguments  
+List-I and cannot be subject to tax.C. Revenue’s rebuttal arguments  
 90. In rebuttal to the submissions advanced by the assessees , the ASG relied 
 upon Adityapur  Industrial Area Development Authority v. Union of India100 and 
 submitted that there is no constitutional immunity from taxation, for the state, 
@@ -1844,8 +1738,6 @@ only at the objects to determine if it constitute s charitable purpose for Secti
 Citations:
 100: (2006) 5 SCC 100
 
-
-
 2(15) of the Act, is to be rejected becaus e exemptions or exclusions are not based 
 on mere objects of trust but on whether the purpose of the trust is “ advancement 
 of any other object of general public utility ”. 
@@ -1873,9 +1765,7 @@ carried on by a trust for the advancement of an object of general public utility
 The reason for this change (discussed previously) was that the advantage of tax 
 exemption was not intended  to charitable trusts that were commercial concerns, 
 which while ostensibly serving a public purpose, were fully paid for the benefits 
-provided by them.
-
-93. The first two decisions of some note  are Lok Shikshana Trust  and Indian 
+provided by them.93. The first two decisions of some note  are Lok Shikshana Trust  and Indian 
 Chamber of Commerce  (supra) . The former decision, by majority, held that to 
 qualify as a charitable purpose, two ingredients had to be satisfied. It was held 
 that the change in the definition meant that to be the fourth category of charitable 
@@ -1909,9 +1799,7 @@ No doubt, the idea of income from business carried on  “behalf of a religious 
 charitable institution” being exempt, provided “the business is carried on in the 
 course of the actual carrying out of a primary purpose of the institution” was 
 introduced by amendment, in 1953. This was interpreted in Andhra Cham ber of 
-Commerce  and Krishna Warri ar (supra) . However, Parliament clearly intended a
-
-departure, when it introduced the new Section 2 (15) under the IT Act. The earlier 
+Commerce  and Krishna Warri ar (supra) . However, Parliament clearly intended adeparture, when it introduced the new Section 2 (15) under the IT Act. The earlier 
 decisions in Indian Chamber of Commerce, and Lok Shikshana Trust  (supra) 
 noticed this cha nge. Surat Art (supra) was yet another a departure. While it  
 considered the previous decisions of the court , it consciously departed from them, 
@@ -1940,9 +1828,7 @@ dominant profit motive.”
 is similar to the one advocated in Indian Chamber of Commerce (which it 
 overruled). The difference in approach is that Surat Art  Silk advocated the 
 “predominant object” test to see whether the object is for advanceme nt of general 
-public utility, bereft  of profit motive, whereas in Indian Chamber of Commerce
-
-(supra) , the court did not deal with or visualize consideration of a “predominant 
+public utility, bereft  of profit motive, whereas in Indian Chamber of Commerce(supra) , the court did not deal with or visualize consideration of a “predominant 
 object”. The second difference between the two decisions, is that Surat Art  Silk 
 stated that there is no need for an express provision in the constitution of a given 
 trust, eschewing  profit motive, whereas in Indian Chamber of Commerce, the 
@@ -1982,8 +1868,6 @@ of high professional stand ards and independence of the Bar which are
 Citations:
 101: 1981  (3) SCR  489
 
-
-
 necessary in the performance of their duties to the society. In other words, the 
 dominant purpose of a State Bar Council as reflected by the various 
 obligatory functions is to ensure quality service of competent l awyers to the 
@@ -2017,8 +1901,6 @@ Laws Amendment Act, 1975 (w.e.f. 01 .04.1977), Section 13(1)(bb) was inserted.
 
 Citations:
 102: Section 4(3)(i) of the old IT Act.
-
-
 
 That provision excluded the operation of Sections 11 and 12 (under which income 
 of charities were entitled to be exempted)  in the case of income derived from 
@@ -2056,8 +1938,6 @@ operation of Sections 11 and 12).
 Citations:
 103: See para 19 of Surat Art Silk (extracted above at paragraph 18 of this judgment).
 
-
-
 (a) omitted the restrictive words under Section 2(15)  i.e. “not  involving 
 the carrying on of any activity for profit”   
 (b) omitted Section 13(1)(bb)  
@@ -2083,8 +1963,6 @@ the IT Act. The 1922 Act did not contain any words of restriction, in the defini
 
 Citations:
 104: "(4A) Sub -section (1) or sub -section (2) or sub -section (3) or sub -section (3A) shall not apply in relation to any income, being profits and gains of business, unless – (a) the business is carried on by a trust wholly for public religious purposes and the business consists of printing and publication of books or publication of books or is of a kind notified by the Central Government in this behalf in the Official Gazette; or (b) the business  is carried on by an institution wholly for charitable purposes and the work in connection with the business is mainly carried on by the beneficiaries of the institution, and separate books of account are maintained by the trust or institution in respect o f such business. …"
-
-
 
 clause. The IT Act, however, define d charitable purpose  - at the outset, 
 restrictively , and then, substantively enact ed provisions that give effect to 
@@ -2117,8 +1995,6 @@ Citations:
 105: 297 U.S. 216 (1936)
 106: Cabell v. Markham  (1945) 148 F 2d 737
 107: 2009 (16) SCR 618
-
-
 
 “The legislative intent of the enactment may be gathered from several sources 
 which are, from the statute itself, from the preamble to the statute, from the 
@@ -2159,8 +2035,6 @@ Citations:
 108: 1979 (1) SCR  26
 109: Lohia Machines Ltd. and Ors. v. Union of India & Ors  1985 (2) SCR 686; Commissioner of Customs (Import), Mumbai v. Dilip Kumar & Company & Ors 2018 (9) SCC 1
 
-
-
 that proposition.110 Some light can be discerned from the statement of the finance 
 minister  on the floor of Parliament, who answered to the criticism levelled against 
 the change brought about by the amendment in 2008. The finance minister  
@@ -2191,8 +2065,6 @@ section 11 or under  section 10(23C) of the Act if they carry on commercial
 
 Citations:
 110: State of West Bengal v . Union of India 1964 (1) SCR 371 : “A statute, as passed by Parliament, is the expression of the collective intention of the legislature as a whole, and any statement made by an individual, albeit a Minister, of the intention and objects of the Act cannot be used to cut down the generality of the words used in the statute. ” At the same time, later decisions have relaxed the rigo r of this rule. In K.P. Varghese v. Income -tax Officer , 1982 (1) SCR 629 , this court,  referring to the budget speech of the Minister stated : “Now it is true that the speeches made by the Members of the Legislature on the floor of the House when a Bill for enacting a statutory provision is being debated are inadmissible for the purpose of interpreting the statutory provision but the speech made by the Mover of the Bill explaining the reason for the introduction of the Bill can certainly be referred to for th e purpose of ascertaining the mischief sought to be remedied by the legislation and the object and purpose for which the legislation is enacted. ” Other decisions following the same approach are Ramesh Yeshwant Prabhoo v. Prabhakar Kashinath Kunte  1995 (Supp 6) SCR 371; Novartis AG v. Union of India  (2013) 6 SCC 1 ; Surana Steels (P) Ltd. v. C ommissioner of Income Tax 1999 (2) SCR 589 and Kalpana Mehta & Ors. v. Union of India (UOI) and Ors  2017 (7) SCC 295.
-
-
 
 activities. Whether such an entity is carrying on an activity in the nature of 
 trade, commerce or business is a question of fact which will be decided bas ed 
@@ -2237,9 +2109,7 @@ of rendering any service in relation to  any trade, commerce or business, for
 a cess or fee or any other consideration,  irrespective of the nature of use or 
 application, or retention,  of the income from such  activity. Scope of this 
 amendment has further been explained by the CBDT vide its  circular 
-no.11/2008 dated 19th Dec 2008.”
-
-115. Senior counsel  appearing  for the assesse es relied on Section 119 of the IT 
+no.11/2008 dated 19th Dec 2008.”115. Senior counsel  appearing  for the assesse es relied on Section 119 of the IT 
 Act as well as decisions of this court, reported as Navnit Lal  Jhaveri (supra) and 
 UCO Bank Calcutta (supra) and argued  that departmental circulars are binding 
 upon tax administrators, and should be legitimately considered as aids of 
@@ -2272,9 +2142,7 @@ The officers were, therefore, asked to intimate to all the companies that if the
 loans were repaid before the 30th June, 1955, in a genuine manner, they would 
 not be taken into account in determining the tax liability of the shareholders 
 to whom they may have been advanced. In other words, past transactions 
-which would normally have attracted the stringent provisions of s. 12(1B) as
-
-it was introduced in 1955, were substantially granted exemption from the 
+which would normally have attracted the stringent provisions of s. 12(1B) asit was introduced in 1955, were substantially granted exemption from the 
 operation of the said provisions by making it clear to all the companies and 
 their shareholders that if the past  loans were genuinely refunded to the 
 companies, they would not be taken into account under s. 12(1B). Section 
@@ -2308,9 +2176,7 @@ own advantage under the Act is given the right to forego the advantage when
 required to wield it in a manner it considers just by relaxing the rigour of 
 the law or in other permissible manners as laid down in Section 119. The 
 power is given for the purpose of just, proper and efficient management of 
-the work of assessment and in public interest. ”
-
-119. The view expressed in Navnit Lal Jhaveri  (supra) , and later elaborated in 
+the work of assessment and in public interest. ”119. The view expressed in Navnit Lal Jhaveri  (supra) , and later elaborated in 
 UCO Bank (supra) appears to have found resonance in other decisions111 of this 
 court. A recent  instance where this court took aid of explanatory circulars is in 
 CIT v. Vatika Township112 when after holding that the amendment in question 
@@ -2350,8 +2216,6 @@ Citations:
 111: Ellerman Lines Ltd. v. Commissioner of Income tax 1972 (2) SCR 168; K.P. Verghese v. Commissioner of Income Tax 1982 (1) SCR 629; Union of India v. Azadi Bachao Andolan 2003 (Supp 4) SCR 222
 112: (2015 ) 1 SCC 1
 113: 1992 (2) SCC 231
-
-
 
 however, support of certain judicial observations for the view that such 
 circulars constitute external aids to construction.”  
@@ -2399,8 +2263,6 @@ consideration, it wou ld not be appropriate for the Court to direct that the
 Citations:
 114: 2004 (2) SCR  511
 
-
-
 circular should be given effect to and not the view expressed in a decision of 
 this Court or the High Court. So far as the clarifications/circulars issued by 
 the Central Government and of the State Gov ernment are concerned they 
@@ -2436,8 +2298,6 @@ Citations:
 115: (1979) 3 SCC 54.
 116: (1975) Supp. SCC 1
 
-
-
 Lal and Ors117. Previously, in Vanguard Fire and Insurance Company Ltd. v. M/s. 
 Fraser and Ross and Anr.118, it was held that the term “ unless the context 
 otherwise requires” implies that the word or term so defined should be applied – 
@@ -2470,8 +2330,6 @@ Citations:
 118: (1960) 3 SCR 837
 119: (1991) 1 SCR 938
 
-
-
 the restriction imposed by Parliament against charities – prohibiting them from 
 carrying on activities of profit do not apply to the first six ca tegories. Although 
 the occasion did not so arise in Surat Art Silk (supra)  (since this Court was dealing 
@@ -2499,9 +2357,7 @@ background and held that the assessee in that case incidentally was engaged in
 activities for profit. The court was also of the opinion that Section 11(4A) was 
 wider than the revenue urged it to be, in that activities by way of business could 
 not be carried on incidentally by a Trust , which otherwise was a GPU category 
-trust.
-
-129. As notic ed earlier, b etween Surat Art Silk (supra) and the decisions 
+trust.129. As notic ed earlier, b etween Surat Art Silk (supra) and the decisions 
 rendered thereafter  (i.e., Bar Council of Maharashtra , Federation of Indian 
 Chamber of Commerce and Industries  and Thanthi Trust ) there were two changes 
 in law  in 1983 w.e.f. 01.04.1984 – on the one hand deleting the restrictive words 
@@ -2534,8 +2390,6 @@ Citations:
 120: 1959 (Supp 1) SCR 646
 121: 1973 (2) SCR 636
 122: 1989 (1) SCR 408
-
-
 
 Director of Civil Supplies v . Member Board of Revenue123  this court outlined, 
 what would be activity in the nature of business:  
@@ -2577,8 +2431,6 @@ Citations:
 125: 1995 (1) SCR 996
 126: 1988 (2) SCC 299
 
-
-
 Assuming that the investments in shares and in lands do not form part of the 
 undertaking but are different subject matters, even then these would be 
 brought within the purview of the vesting by reason of the above expressions. 
@@ -2609,9 +2461,7 @@ inapplicable if the aggregate value of the receipts of such activity did not exc
 ₹10,00,000, and later by Finance Act, 2012 – this was enhanced to ₹25,00,000.  
 135. The next important change took place through the Finance Act, 2015, 
 which, w.e.f.  01.04.2016 substituted the two provisos to Section 2(15) with the 
-following proviso:
-
-“Provided that the advancement of any other object of general public utility 
+following proviso:“Provided that the advancement of any other object of general public utility 
 shall not be a charitable purpose, if it involves the carrying on of any activity 
 in the nature of trade, commerce or business, or any activity of rendering any 
 service i n relation to any trade, commerce or business, for a cess or fee or 
@@ -2643,9 +2493,7 @@ previous year.
 purpose” and how judicial thinking has shaped it, this court would now explore 
 the all important question of the scope of the term of “ any other object generally 
 public utility ” not being charitable purpose “if it involves the carrying on of any 
-activity in the nature of trade, commerce or business or any activity of rendering
-
-any service in relation to any trade, commerce or business, for a cess or fee or 
+activity in the nature of trade, commerce or business or any activity of renderingany service in relation to any trade, commerce or business, for a cess or fee or 
 any other consideration, irr espective  of the nature of use or application, or 
 retention, of the income from such activity.”  
 138. Parliamentary endeavour, was to alter the regime applicable to taxation of 
@@ -2676,8 +2524,6 @@ Citations:
 127: “…the advancement of any other object of general public utility not involving the carrying on of any activity for profit "
 128: (1997) 4 SCC 257.
 
-
-
 At the same time - on behalf of the assesse es, it was contented that if the 
 proscribed  activities i.e., business, commerce or trade or service in relation to 
 such activities - is not the main or dominant object of the GPU charity , any 
@@ -2706,8 +2552,6 @@ be said to have been, ineffective or unenforceable. It was effective till 26 -1-
 Citations:
 129: 1977 1 ALLER 813
 130: 289. Exemption of property and income of a State from Union taxation .—(1) The property and inc ome of a State shall be exempt from Union taxation. (2) Nothing in clause (1) shall prevent the Union from imposing, or authorising the imposition of, any tax to such extent, if any, as Parliament may by law provide in respect of a trade or business of any  kind carried on by, or on behalf of, the Government of a State, or any operations connected therewith, or any property used or occupied for the purposes of such trade or business, or any income accruing or arising in connection therewith. (3) Nothing in clause (2) shall apply to any trade or business, or to any class of trade or business, which Parliament may by law declare to be incidental to the ordinary functions of government.
-
-
 
 1950. Clause (2) of Article 289 also similarl y does not define or specify — 
 nor does it require that the law made thereunder should so define or specify. 
@@ -2758,9 +2602,7 @@ may pause here a while and explain why we are attaching such restricted
 meaning to the words “trade or business” in the proviso to Section 155 and 
 in clause (2) of Article 289. Both the words import substantially  the same 
 idea though, ordinarily speaking, the expression “business” appears to be 
-wider in its content. The expression, however, has no definite meaning; its
-
-meaning varies with the context and several other factors. … Having regard 
+wider in its content. The expression, however, has no definite meaning; itsmeaning varies with the context and several other factors. … Having regard 
 to the context in whi ch the words “trade or business” occur — whether in 
 the proviso to Section 155 of the Government of India Act, 1935 or in clause 
 (2) of Article 289 of our Constitution — they must be given, and we have 
@@ -2791,9 +2633,7 @@ income, from them, was intended to be conveyed through the prohibition, in the
 first part of the definition of  GPU charities.  The necessary implicati on which 
 arises is that income  (received as fee, cess, or any other consideration)  derived 
 from such ‘prohibited activities’ is necessarily motivated by profit .  The ordinary 
-meaning of fee or consideration would be synonymous with something of value,
-
-usually in monetary terms.  However, the use of the expression “cess” facially 
+meaning of fee or consideration would be synonymous with something of value,usually in monetary terms.  However, the use of the expression “cess” facially 
 lends a different colour to all the three expressions.  
 144.  “Fee, cess and any other consideration ”  has to receive a purposive 
 interpretation, in the present context. If fee or cess or such consideration is 
@@ -2821,9 +2661,7 @@ promote trade, for a section of business or indus try, or are aimed at providing
 facilities or amenities to improve efficiencies, or platforms to a segment of 
 business, for fee, whether charged by subscription, or specific fee, etc, may not 
 be charitable ; when they claim exemption, their cases   would require further 
-scrutiny .
-
-145. This Court has in some decisions considered the term "cess". In  Shinde 
+scrutiny .145. This Court has in some decisions considered the term "cess". In  Shinde 
 Brothers Etc. v. Deputy Commissioner, Raichur and Ors .131, Justice M. 
 Hidyatullah , (though his was a dissenting judgment, yet no contrary opinion was 
 expressed by majority in regard to “cess”) said that:  
@@ -2863,8 +2701,6 @@ Citations:
 133: (2006) 6 SCC 763
 134: 1998 (2) SCR 22
 
-
-
 previous decisions, held that exaction, through process of law, of amounts may 
 be called “fee” but broadly are taxes:  
 “compulsory exaction's of money imposed for public purpose and requiring 
@@ -2902,8 +2738,6 @@ Citations:
 135: See Union of India & Ors. v. State of U.P. & Ors . 2007(12) SCR 792; Union of India v. Purna Municipal Corporation  1991 (Supp 1) SCR 183; Municipal Corporation, Amritsar v. Senior Superintendent of Post Offices, Amritsar Division & Anr. 2004 (1) SCR 913.
 136: 2012(12) SCR 975
 
-
-
 At common law every contract not under seal requires a consideration to 
 support it, that is, as shown in the definition above, some benefit to the 
 promisor, or some detriment to the promisee. ’ 
@@ -2940,9 +2774,7 @@ service in relation to such activities, i.e. , services relating, or pertaining 
 proscribed activities, too were forbidden.   
 151. The reference to fee or cess, is in the opinion of the court, only to 
 emphasize that even a statutory consideration, for a service to business, trade or 
-commerce, would take the activity outside the definition of a GPU charity. The
-
-sense in which the expre ssions “ cess, fee or other consideration ” are used, is that 
+commerce, would take the activity outside the definition of a GPU charity. Thesense in which the expre ssions “ cess, fee or other consideration ” are used, is that 
 if any amount, is received for trading, or business or commercial activity, or any 
 services to such activity, then, notwithstanding their nomenclature (as fee or cess, 
 i.e. that they are fixed und er a law) the GPU charity cannot claim tax exempt 
@@ -2968,9 +2800,7 @@ emphasized in the negative language employed by the main part of Section 2(15).
 Therefore, the idea of a predominant object  among several other objects, is 
 discarded. The prohibition is relieved to a limited extent, by the proviso which 
 carves out the condition by which otherwise prohibited activities can be engaged 
-in by GPU charities. The conditions are:
-
-(a) That such activities in the nature of trade, commerce, business or 
+in by GPU charities. The conditions are:(a) That such activities in the nature of trade, commerce, business or 
 service (in relation to trade, commerce or business for consideration) 
 should be in the course of “actual carrying on” of the GPU object, and  
 (b) The quantum of receipts from such activities should be exceed 20% of 
@@ -3000,8 +2830,6 @@ income of charitable trusts. Lastly, Section 11(5) provides for the prescribed
 Citations:
 137: Commissioner of Income Tax v. Dawoodi Bohara Jamat , (2014) 16 SCC 222; S.RM.M.CT.M. Tiruppani Trust v. Commissioner of Income Tax , (1998) 2 SCC 584
 
-
-
 modes of investment in rega rd to the said trusts.  Section 12 enacts that income of 
 trusts created wholly for charitable or religious purpose from voluntary 
 contributions would be deemed as income from the property held under such trust 
@@ -3030,9 +2858,7 @@ settled by the donor or trust creator in favour of the trustees itself i s a bus
 undertaking, then the income from such an undertaking is covered by Section 
 11(4). Section 11(4A) operates differently. It is applicable to cases where the trust 
 carries on a business.  Section 11(4A) states that when a trust carries on a 
-business, unless the business is incidental or ancillary to the attainments of the
-
-objectives of the trust, it would be disentitled to an exemption under Section 
+business, unless the business is incidental or ancillary to the attainments of theobjectives of the trust, it would be disentitled to an exemption under Section 
 11(1).  It imposes a further condition that separate books of accounts need to be 
 maintained in su ch cases.  
 156. Section 11(1) confers an exemption from tax only where the property itself 
@@ -3061,9 +2887,7 @@ respect of such business."
 under trust was answered in the negative in earlier High Court judgments . The 
 general provision under Section 4(3)(i) of the old Act  exempted income derived 
 from property held under trust from taxation. Section 4(3)(ia) however, enacted 
-that any income derived from a business carried on behalf of a religious or
-
-charitable trust  would be entitled to exemption only if the business was carried 
+that any income derived from a business carried on behalf of a religious orcharitable trust  would be entitled to exemption only if the business was carried 
 on in the course of carrying out of a primary purpose of the trust or the work in 
 connection with the business is mainly carried on by the beneficiaries of the trust.  
 The revenue contended th ere that since clause (ia) was a special provision dealing 
@@ -3098,8 +2922,6 @@ Citations:
 138: See Gadodia Swadeshi Stores v. Commissioner of Income Tax, Punjab,  (1944) 12 ITR 385
 139: 1958 (1) SCR 65
 
-
-
 as we will indicate later in our judgment, in holding that the said clause (b) 
 of the proviso deals with a case of business which is not vested in trust for 
 religious or charitable pu rposes within the meaning of the substantive clause 
@@ -3129,9 +2951,7 @@ which the trustees are to hold and stand possessed of , were only the sum of
 ₹1,00,000/ -, any donations and contribution received by the trustees and all 
 accretions thereto , and investment in securities made from time to time 
 representing the accretions . It was contended that on the terms of the trust deed, 
-the managing agency which was acquired on 10.09.1945 for a period of 20 years ,
-
-cannot be said to be property held under trust since no part of the initial amount 
+the managing agency which was acquired on 10.09.1945 for a period of 20 years ,cannot be said to be property held under trust since no part of the initial amount 
 of  ₹1,00,000/ -, which was settled upon the trust, was utilised in the acquisition 
 of the managing agency , so as to impr ess it with the character of accretion. While 
 repelling this contention, this court held that:  
@@ -3166,8 +2986,6 @@ Citations:
 140: (1963) 50 ITR 798  Madras.
 141: (1957) 31 ITR 226  Patna.
 
-
-
 It says that where a person transfers merely the income from an asset without 
 transferring the asset itself, he would continue to be chargeable to income tax. 
 Section 61 provides for the consequences of a revocable transfer of assets and 
@@ -3194,9 +3012,7 @@ charitable object, not a GPU object . The observations we re therefore made ,
 having regard to the fact that the profits of the newspaper business were utilized 
 by the trust for achieving the object of education . In the light of such facts, the 
 carrying on of newspaper business, could be incidental to the object of education - 
-a per se category. The Thanthi Trust  (supra) ratio therefore, cannot be extended
-
-to cases where the trust carries on business which is not held under trust and 
+a per se category. The Thanthi Trust  (supra) ratio therefore, cannot be extendedto cases where the trust carries on business which is not held under trust and 
 whose income is utilized to feed the charitable objects of the trust.   
 166. What then is the interpre tation of the expression “incidental” profits, from 
 “business” being “incidental to the attainment of the objectives” of the GPU 
@@ -3223,9 +3039,7 @@ predominant  object is no longer good law. Likewise, the ambiguity with respect
 to the kind of activities generating profit which could fee d the main object and 
 incidental profit -making also is not good law. What instead, the definition under 
 Section 2(15) through its proviso directs  and thereby marks a departure from the 
-previous law,  is – firstly  that if a GPU charity is to engage in any ac tivity in the
-
-nature of trade , commerce or business , for consideration it should only be a part 
+previous law,  is – firstly  that if a GPU charity is to engage in any ac tivity in thenature of trade , commerce or business , for consideration it should only be a part 
 of this actual  function to attain the GPU objective and, secondly  – and the equally 
 important consideration is the imposition of a quantitative standard - i.e., income 
 (fees, cess or other consideration ) derived from activity in the nature of trade, 
@@ -3249,9 +3063,7 @@ clarificatory. Thus interpreted, there is no conflict between the definition of
 charitable purpose and the machinery part of Section 11(4A). Further,  the 
 obligation under Section 11(4A) to maintain separate books of account in respect 
 of such receipts is to ensure that the quantitative limit imposed by sub -clause (ii) 
-to Section 2(15) can be computed and ascertained in an objective manner.
-
-169. The conclusion recorded above is also supported by the language of 
+to Section 2(15) can be computed and ascertained in an objective manner.169. The conclusion recorded above is also supported by the language of 
 seventh proviso142 to Section 10(23C). Whereas Section 2(15) is the definition 
 clause, Section 10 lists out what is not income .  Section 10(23C)  – by sub -clauses 
 (iv) and (v) exempt incomes of charitable organisations. Such organisations and 
@@ -3281,8 +3093,6 @@ Citations:
 143: Providing relief from distress to humans based on Christian values  - refer to Director of Income Tax v. Bharat Diamond Bourse (2002) 10 SCC 392 , and Bangalore Water Supply and Sewage  Undertaking v. A Rajappa (1978)
 2: SCC 213.
 
-
-
 variables, - may be a little surp lus is left over at the end of the year – the broad 
 inhibition against making profit is a good guarantee that the carrying on of the 
 activity is not for profit ”. 
@@ -3310,9 +3120,7 @@ nominal mark up ; or renting marriage halls for low amounts, again with a fee
 meant to cover costs ; or blood bank services, again with fee to cover costs, are 
 not activities in the nature of business. Yet, when the entity concerned charges 
 substantial amounts - over and abo ve the cost it incurs  for doing the same work, 
-or work which is part of its object (i.e. , publishing an expensive coffee table book
-
-on Gandhi , or in the case of the marriage hall, charging significant amounts from 
+or work which is part of its object (i.e. , publishing an expensive coffee table bookon Gandhi , or in the case of the marriage hall, charging significant amounts from 
 those who can afford to pay, by providing extra services, far above the cost-plus 
 nominal markup) such activities are in the nature of trade, commerce, business or 
 service in relation to them.  In such case, the receipts from such latter kind of 
@@ -3342,8 +3150,6 @@ limited manner do so, provided the receipts are within the limit spelt out in Cl
 Citations:
 144: “(8) Nothing contained in section 11 or section 12 shall operate so as to exclude any income from the total income of the previous year of the person in receipt thereof if the provisions of the first proviso to clause (15) of section 2 become applicable in the case of such person in the said previous year.”
 
-
-
 D. What kinds of income or receipts may not be characterized as derived 
 from trade, commerce , business  or in relation to such activities,  for a 
 consideration  
@@ -3371,9 +3177,7 @@ charge amounts towards supplying g oods or articles, or rendering services i.e. 
 for fees for providing typical essential services like providing water, distribution 
 of food  grains, distribution of medicines, maintenance of roads, parks etc. , ought 
 not to be characterized as “commercial rec eipts” . The rationale  for such 
-exclusion would be that if such rates, fees, tariffs , etc., determined by statutes and
-
-collected for essential services, are included in the overall income as receipts as 
+exclusion would be that if such rates, fees, tariffs , etc., determined by statutes andcollected for essential services, are included in the overall income as receipts as 
 part of trade, commerce or business , the quantitative limit of 20% imposed by 
 second proviso to Section 2(15) would be attracted thereby negating the essential 
 general public utility object and thus driving up the costs to be borne by the 
@@ -3400,8 +3204,6 @@ authorities, from taxation. By Finance Act, 2002, an Explanation was added to
 
 Citations:
 145: Incomes not included in total income. 10. In computing the total income of a previous year of any person, any income falling within any of the fo llowing clauses shall not be included - xxxxxx    xxxxxx    xxxxxx (20A) any income of an authority constituted in India by or under any law enacted either for the purpose of dealing with and satisfying the need for housing accommodation or for the purpose o f planning, development or improvement  of cities, towns and villages, or for both.
-
-
 
 Section 10(20) which defined “local authority” retrospectively. The Board ceas ed 
 to enjoy exemption which it had hitherto, in the absence of the retrospective 
@@ -3432,8 +3234,6 @@ effect from 01.04.2009 retrospectively  by the Finance Act, 2011146. The
 
 Citations:
 146: Incomes not included in total income. 10. In computing the total income of a previous year of any person, any income falling within any of the following clauses shall not  be included -
-
-
 
 conditions for applicability of Section 10(46), i.e. , that specified income or a class 
 of specified income of ports, trusts or commissions , etc., established or 
@@ -3467,9 +3267,7 @@ called) or a class, thereof which -
 Government or a State Government, with the object of regulating or administering any activity for the benefit of 
 the general public;  
 (b) is not engaged in any commercial activity; and  
-(c) is notified by the Centr al Government in the Official Gazette for the purposes of this clause.
-
-water supply, sewage treatment, supply of fo od grains, medicines, etc ., with or 
+(c) is notified by the Centr al Government in the Official Gazette for the purposes of this clause.water supply, sewage treatment, supply of fo od grains, medicines, etc ., with or 
 without regulatory powers, the mere fact that some surplus or gain is derived 
 would not disentitle them from the benefit of Section 10(46).  
 183. In this context, it would be useful to consider the judgment of the Delhi 
@@ -3499,8 +3297,6 @@ Cooperative Housing Society (supra) and Gujarat Industrial Development
 Citations:
 147: (2018) 406 ITR 418  (hereafter “ GNIDA ”)
 148: (2017) 395 ITR 18
-
-
 
 Corporation (supra) have declared that these bodies are involved in 
 ‘development ’ and are not essentially engaged in trading. In Shri Ramtanu 
@@ -3547,9 +3343,7 @@ of the Act. A budget is prepared showing the estimated receipts and
 expenditure. The accounts of the Corporation are audited by an auditor 
 appointed by the State Government. These provisions in regard to the finance 
 of the Corporation indicate the real role of the Corporation viz. the agency 
-of the Government in carrying out the purpose and object of the Act which is
-
-the development of industries. If in the ultimate analysis there is excess of 
+of the Government in carrying out the purpose and object of the Act which isthe development of industries. If in the ultimate analysis there is excess of 
 income over expenditure that will not establish the trading charac ter of the 
 Corporation. There are various departments of the Government which may 
 have excess of income over expenditure.  
@@ -3587,9 +3381,7 @@ the Accountant General of  the concerned state,  or auditors appointed by the st
 They a re authorized by law, to levy rates and charges, for the services they 
 provide, on pre -determined basis. In the light of these provisions, clearly, these 
 boards and authorities perform objects of general public utility; and they are not 
-driven by profit mo tive.
-
-187. There is a two -fold distinction between the now -deleted Section 10(20A) 
+driven by profit mo tive.187. There is a two -fold distinction between the now -deleted Section 10(20A) 
 and the newly added Section 10(46) (w.e.f. 01.06.2011) . Firstly, that the erstwhile 
 Section 10(20A) applied to a limited class of undertaking i.e., the bodies, or 
 corporations, constituted by or under any law -confined to the planning and 
@@ -3616,9 +3408,7 @@ whether for the period 01.0.2003 - 31.05.2011, statutory boards, corporations , 
 could have lawfully c laimed to be GPU charities, this court has observed that the 
 nature of such corporations is not to generate profit but to make available goods 
 and other services for the benefit of public weal. If such corporations (falling 
-within the description of Sectio n 10(46)) applied to the Central Government for
-
-exemption, the treatment of their receipts, should be no different than how such 
+within the description of Sectio n 10(46)) applied to the Central Government forexemption, the treatment of their receipts, should be no different than how such 
 receipts can and should have been treated for the purposes of determining whether 
 they are GPU charities, during the period whe n Section 10(46) was not in 
 existence. Furthermore, this court is of the opinion that having regard to the 
@@ -3644,9 +3434,7 @@ pursuing their objec ts, involved or engaged in activities in the nature of
 trade , commerce or business .  
 (iv) The determina tive tests to consider when determining whether such 
 statutory bodies, boards, authorities, corporations, autonomous or self -
-governing government sponsored bodies, are GPU category charities:
-
-(a) Does the state or central law , or the memorandum of association,  
+governing government sponsored bodies, are GPU category charities:(a) Does the state or central law , or the memorandum of association,  
 constitution , etc. advance any GPU  object , such as development of 
 housing,  town planning, development of industrial areas, or 
 regulation of any activity in the general public interest, supply of 
@@ -3674,9 +3462,7 @@ food-grains, medicines, and/or retaining monies in deposits or
 government securities  and drawing interest therefrom or charging 
 lease rent, ground rent , etc., per se , recovery of such charges, fee, 
 interest ,  etc. cannot be characterized as “fee, cess or other 
-consideration”  for engaging in activities in the nature of trade,
-
-commerce, or business , or for providing service in relation in 
+consideration”  for engaging in activities in the nature of trade,commerce, or business , or for providing service in relation in 
 relation thereto ; 
 (e)  Does the statute or controlling instrument set out the policy or 
 scheme, for how the goods and services are to be distributed; in what 
@@ -3704,9 +3490,7 @@ to necessarily be  fulfilled.
 (v) As a consequence, it is necessary in each case, having regard to the first 
 proviso and seventeenth proviso (the latter introduced in 2012, w.r.e.f 
 01.04.2009 ) to Section 10(23C) , that  the authority considering  granting 
-exemption, take s into acc ount the objects of the enactment or
-
-instrument concerned, its underlying policy, and the nature of the 
+exemption, take s into acc ount the objects of the enactment orinstrument concerned, its underlying policy, and the nature of the 
 functions , and activities , of the entity claiming to be a GPU charity. If 
 in the course of its functioning it collects fees, or any consideration that 
 merely  cover its expenditure (including administrative and other costs 
@@ -3733,9 +3517,7 @@ has grown significantly. Whereas in the end of financial year 2005, the
 membership was 1.23 lakhs, it had increased to 1,86,440 on 31.03.2012.  
 Likewise, there was an exponential growth in the students appearing  in the 
 examination - in 2005, it was 2,96,294, and on 31.03.2012, it had increased to 
-10,70,839. Apparently, the Institute conducts distance education courses and also
-
-conducts classroom instruction facilities. These are integrated with the course 
+10,70,839. Apparently, the Institute conducts distance education courses and alsoconducts classroom instruction facilities. These are integrated with the course 
 curricu lum. Additionally , it was urged that no commercial motive was involved; 
 coaching and revisional classes conducted are very nominal ly priced  - ranging 
 from ₹1500 to ₹2500 for one group , and from ₹4000 to ₹6000 for both groups, 
@@ -3762,9 +3544,7 @@ charity.
 194. The Institute is a creature of the Institute of Chartered Accountants Act, 
 1949. By Section 4 of this Act, every person who qualifies in the examination 
 conducted by the Institute has to seek registration as a Chartered Accountant. 
-Only when members obtain certificates issued by the Council of the Institute
-
-under Section 6 can they  be known as a ‘Chartered Accountant ’ and be entitled 
+Only when members obtain certificates issued by the Council of the Instituteunder Section 6 can they  be known as a ‘Chartered Accountant ’ and be entitled 
 to practice that profession (Sections 6 and 7). The Council of the Institute is 
 constituted under Section 9 which defines such constitution and the manner for 
 holding elections , etc. The functions of th e Council by Section 15(2A) include 
@@ -3791,8 +3571,6 @@ power under Entry 25 and 26 of the Concurrent List149. Furthermore,  they also
 
 Citations:
 149: In List III of the Seventh Schedule to the Constitution of India, “25. Education, including technical education, medical education and universities, subject to the provisions of entries 63, 64, 65 and 66 of List I; vocational and technical training of la bour. 26. Legal, medical and other professions” .
-
-
 
 appear to conform to Entry 65 of the Union List150 (which has been adverted to 
 in Entry 25 of the Concurrent List ). As things stand, the Institute is the only body 
@@ -3823,8 +3601,6 @@ in relation thereto .
 Citations:
 150: In List I of the Seventh Schedule to the Constitution of India, “65. Union agencies and institutions for — (a) professional, vocational or technical training, including the training of police officers; or (b) the promotion of special studies or research; or (c) scientific or technical assistance in the investigation or detection of crime.”
 
-
-
 197. At the same time, this court would sound a note of caution. It is important, 
 at times, while considering the nature of activities (which may be part of a 
 statutory mandate) that regulatory bodies may perform, whether the kind of 
@@ -3852,9 +3628,7 @@ only seeds conforming to prescribed standards, are permitted to be traded and
 used, by farmers. Such standards are - in the context of the fact that agriculture is 
 one of the main stays of the economy, and furthermore, pivotal for food security 
 - essential as they ensure efficacy of seeds and guarantee to the farmers that they 
-can be relied upon. The essential nature of the regulatory function performed by
-
-these certification agenci es is obvious. The nature of their activities is not by way 
+can be relied upon. The essential nature of the regulatory function performed bythese certification agenci es is obvious. The nature of their activities is not by way 
 of trade, commerce or business, nor service in relation to trade commerce, 
 business, for some form of consideration.  
  
@@ -3883,9 +3657,7 @@ was trade promotion , while furthering it, the fact that some trading occurred,
 leading to income, did not preclude the assessee from claiming tax exemption.  
 202. In the opinion of this court, the change in definition in Section 2(15) and 
 the negative phraseology  - excluding from consideration , trusts or institutions 
-which provide services in relation to trade, commerce or business, for fee or other
-
-consideration  - has made a difference. Organizing meetings, disseminating 
+which provide services in relation to trade, commerce or business, for fee or otherconsideration  - has made a difference. Organizing meetings, disseminating 
 information through publications, holding awareness camps and events, would be 
 broadly covered by trade promotion. However, when a trade promotion body 
 provides individualized or spe cialized services  - such as conducting paid 
@@ -3912,9 +3684,7 @@ to provide  information,  and to provide  market  research.  AEPC  also assists 
 developing  new design  patterns  and garments  and to perform  promotional  
 activities  in individual  foreign  markets.  Further,  AEPC  sends  missions  and trade  
 delegations  abroad , who participate  in international  fairs;  and conducts  surveys  
-to gather  information  on potential  export  of ready -made  garments.
-
-204. As part of its functioning, it also books bulk space, which is then rent ed 
+to gather  information  on potential  export  of ready -made  garments.204. As part of its functioning, it also books bulk space, which is then rent ed 
 out to individual Indian exporters, who showcase their products and services, and 
 ultimately secure export orders. Towards these services, i.e. , booking and 
 providing space, AEPC charges rentals. Now, these rents are not towards fixed 
@@ -3941,9 +3711,7 @@ Government. At one time, government functionaries, including the late President,
 APJ Abdul Kalam, were members, on account of their ex offic io capacity. The 
 objects of this assessee are  to  
 “ 3.1.1 To advance the cause of computer communication in the country in 
-all its aspects and dimensions with a view to provide rapid nationwide
-
-development of the sector and technological and economic growth of the 
+all its aspects and dimensions with a view to provide rapid nationwidedevelopment of the sector and technological and economic growth of the 
 county.  
 3.1.2 To develop, design, se tup and operate nationwide state of the art 
 computer communication infrastructure with international connectivity 
@@ -3973,9 +3741,7 @@ are of such nature as to be called as fees or consideration towards  business, t
 or commerce, or service in relation to it. The functions ERNET pe rforms are vital 
 to the development of online educational and research platforms . For these 
 reasons, it is held that the impugned judgment, which upheld the ITAT’s order, 
-does not call for interference .
-
-209. The Revenue has appealed the decision of Delhi High Court in which the 
+does not call for interference .209. The Revenue has appealed the decision of Delhi High Court in which the 
 National Internet Exchange of India (NIXI) was held to b e a GPU category 
 charity. The materials on record show that NIXI was established in 2003 under 
 the aegis of the Ministry of Information Technology of the Union Government 
@@ -4001,9 +3767,7 @@ one, cannot be overemphasized.  The Union Government’s object of setting up of
 internet exchange is part of its essential function as a gove rnment to regulate 
 certain segment of the communication networks.  In the absence of a single entity 
 authorized to register “.in” domain names, there is bound to be chaos or 
-confusion.
-
-211. In view of the foregoing discussion , this Court is of the opinion that the 
+confusion.211. In view of the foregoing discussion , this Court is of the opinion that the 
 revenue’s contention that NIXI does not merely carry -on public purpose of 
 regulatory activity but is involved in trade , commerce,  or business or in providing 
 service in relation thereto , cannot be accepted.   
@@ -4030,9 +3794,7 @@ enabled with RFID chip and other electronic technology. Being one of its kinds
 globally, only a GS 1 registered organization can set up and promote the said 
 system/standard within a country. These can be used for several fields including 
 public distribution system, agriculture, health products , etc. and has been 
-successfully used for product package lab els. The utility and benefits of a
-
-universal coding system assessable by anyone across the globe, for the 
+successfully used for product package lab els. The utility and benefits of auniversal coding system assessable by anyone across the globe, for the 
 consumers, government, manufacturers, traders, exporters , etc. are enormous and 
 significant. Initial registration fee of ₹ 20,000/ - is charged by GS 1, plus annual 
 fee of ₹4,000/ - (enhanced to ₹ 5,000/ - from financial year 2006 -07 onwards ) from 
@@ -4058,9 +3820,7 @@ Revenue) , but rather a case where a token fee h as been fixed and payable by th
 user of the global identification system. Clause 44 of GSI’s Memorandum of 
 Association of the petitioner stipulates that it is  a "Not -for-Profit" society and the 
 funds/receipts are to only be used for promotion of objects of the society for 
-which it is established , including sustenance and expansion.
-
-215. The revenue contended that although GS1 India has a monopoly, the mere 
+which it is established , including sustenance and expansion.215. The revenue contended that although GS1 India has a monopoly, the mere 
 fact that it is stated to be a Not for Profit Society with some governmental 
 involvement in  its management would not detract from its essential nature; which 
 is to sub -serve the interest of the business community.  It was elaborated in this 
@@ -4087,9 +3847,7 @@ uses for fee or other consideration.  It is highlighted that these services are
 provided mostly to business, trade purpose, man ufactur ing, etc. On the other 
 hand, GS1 urges that it performs the important public function which enables not 
 merely manufactures but others involved in supplies of various articles by 
-packaging , etc., to regulate and ensure their identity.
-
-217. In the o pinion of this Court, GS1’s functions no doubt is of general public 
+packaging , etc., to regulate and ensure their identity.217. In the o pinion of this Court, GS1’s functions no doubt is of general public 
 utility. However,  equally  the services it performs are to aid business es 
 manufactures, tradesmen and commercial establishments.  Bar coding packaged 
 articles and goods assists their consig ners to identify them ; helps  manufactures, 
@@ -4120,8 +3878,6 @@ Citations:
 2011: -12 and 2012 -13.
 152: SLP (D) No. 16597/2020 against a common judgment dated 27.9.2019, which relate to the Gujarat Cricket Association, Saurashtra, Baroda and Rajkot Cricket Association Cricket Association.
 
-
-
 matters, the facts relating to the Gujarat Cricket Association (GCA) may be 
 considered for convenience.  
 219. The objects of GCA (and other associations) are to control, supervise, 
@@ -4149,9 +3905,7 @@ such manner as its Man aging Committee considers desirable for the fulfilment of
 its objects.  
 220. The assessing authorities denied GCA’s claim and that of the other 
 associations, that they were charities. Before the ITAT, it was contended, on 
-behalf of the revenue, inter alia, that looking at the nature of the relationship of
-
-these state cricket associations with the Board of Cricket Control of India (BCCI), 
+behalf of the revenue, inter alia, that looking at the nature of the relationship ofthese state cricket associations with the Board of Cricket Control of India (BCCI), 
 the amounts received by these associations from BCCI were in the nature of 
 consideration or fees, for granting media right s, and collecting their share, among 
 other things. This amounted to a business or commercial activity. It would, in this 
@@ -4194,9 +3948,7 @@ Whenever a foreign team visits India, the international matches such as Test
 and ODI are allotted by BCCI to the state cr icket associations by a rotation 
 policy. The matches are conducted and managed by the respective state 
 associations. It is not possible for BCCI to conduct all these matches with its 
-own limited personnel. It is dependent on the state associations, their o ffice
-
-bearers, their employees and their network and resources at the local centre 
+own limited personnel. It is dependent on the state associations, their o fficebearers, their employees and their network and resources at the local centre 
 to conduct the matches.  
 The association manage the entire match right from provision of security to 
 players, spectators in coordination with respective state police personne l, 
@@ -4244,9 +3996,7 @@ such as sale of ticket revenues belong to the state associations, who meet the
 expenditure on the matches such as security for players and spectators 
 temp orary stands, operation of floodlights, Score Boards, management of 
 crowd, insurance for the match, electricity charges, catering etc. Whereas 
-with regard to the income from sale of media rights, the arrangement between
-
-BCCI and the State Associations has been that 70% of the revenue would 
+with regard to the income from sale of media rights, the arrangement betweenBCCI and the State Associations has been that 70% of the revenue would 
 belong to the State Associations. As shown, this has been the arrangement 
 between the parties for the twenty years. The State Associations are entitled 
 by virtue of established practice to 70% of the media right fee. It i s in 
@@ -4293,9 +4043,7 @@ Commissioner (DR)'s suggestion that the cricket associations cannot be seen
 on standalone basis as the BCCI is nothing but an apex body of these cricket 
 associations at a collective level and whatever BCCI does is at the behest of 
 or with the connivance of the local cricket a ssociations, and that it is not the 
-case that anyone can become a Member of the BCCI because only a
-
-recognized cricket association can become a Member of the BCCI. We are 
+case that anyone can become a Member of the BCCI because only arecognized cricket association can become a Member of the BCCI. We are 
 also alive to learned Commissioner's argument that what is being sought to 
 be protect ed by the charitable status of these associations is the share of 
 these cricket associations from the commercial profits earned by the BCCI 
@@ -4344,8 +4092,6 @@ the conduct of the matches. BCCI earns revenue by way of sponsorship and
 Citations:
 153: [2014] 360 ITR 633 (Mad)
 
-
-
 media rights as well as franchisee revenue for IPL and it distributes 70 per 
 cent, of the revenue to the member cricket association. Thus, the assessee is 
 also th e recipient of the revenue. Thus, for invoking section 12AA read with 
@@ -4386,9 +4132,7 @@ capital field.
 carrying on any charitable activity; reliance was placed on the facts to say that 
 substantia l amounts were received by the state associations, towards their share 
 of sale of media rights (as constituents or members of BCCI) , which are 
-commercial receipts. Although the sale of those rights was by the BCCI, the lion’s
-
-share of those amounts was tha t of the respective state associations. Furthermore, 
+commercial receipts. Although the sale of those rights was by the BCCI, the lion’sshare of those amounts was tha t of the respective state associations. Furthermore, 
 the state associations owned the stadia, and actually conducted the matches, in 
 respect of which stadium advertisements and sponsorship amounts were received: 
 these, too, were in the nature of business o r commercial activities. The assessees 
@@ -4418,9 +4162,7 @@ preparation for the work of life. It also connotes the whole course of
 scholastic instruction which a person has received. The word “education” 
 has not been used in that wide and extended sense, according to which every 
 acquisition  of further knowledge constitutes education. According to this wide 
-and extended sense, travelling is education, because as a result of travelling
-
-you acquire fresh knowledge. Likewise, if you read newspapers and 
+and extended sense, travelling is education, because as a result of travellingyou acquire fresh knowledge. Likewise, if you read newspapers and 
 magazines, see pictures, visit art gallerie s, museums and zoos, you thereby 
 add to your knowledge. Again, when you grow up and have dealings with 
 other people, some of whom are not straight, you learn by experience and 
@@ -4457,8 +4199,6 @@ Players and umpires also are to be registered wit h it.
 Citations:
 154: Rule 3 (a) (ii) (B) of the latest BCCI Memorandum of Association and the Rules and Regulations
 
-
-
 227. The game of competitive cricket, at the organizational level is structured 
 in such a manner that BCCI has  umbilical ties with the state associations. Not 
 only are the latter, the members who constitute BCCI and elect its governing 
@@ -4491,9 +4231,7 @@ exactly 70% of its receipts from media rights (less - production cost) to the
 state associations. This amount has been utilized by the respective 
 associations to build infrastructure and promote cricket, making the game 
 more p opular, nurturing and encouraging cricket talent, and leading to 
-higher revenues from media rights.”
-
-229. These  media, or broadcasting rights, are in the nature of intellectual 
+higher revenues from media rights.”229. These  media, or broadcasting rights, are in the nature of intellectual 
 property rights: under Section 37 to 40 of the Copyrights Act, 1957. These rights - 
 especially television and digital rights enable the licensee or the successful bidder 
 to exploit the teleca st or broadcast commercially, by carrying advertisements of 
@@ -4521,9 +4259,7 @@ Cricket Association  ₹ 7,00,000/ -
  
 231. The details of the subsidy amounts received from BCCI for every match 
 has been shown. This aggregates to over ₹41 lakhs. Furthermore, the details 
-received towards the India -South Africa test fixture paid between 03.04.2008 -
-
-04.04.2008 has been shown. GCA received ₹1,57,00,000/ - towards sale of space; 
+received towards the India -South Africa test fixture paid between 03.04.2008 -04.04.2008 has been shown. GCA received ₹1,57,00,000/ - towards sale of space; 
 ticket sales yielded ₹27,57,700 and towards the head screen income, a sum of ₹3 
 lakhs was received. After deducting the expenditure, the excess income received 
 for the year was ₹1,51,97,741/ -. 
@@ -4550,9 +4286,7 @@ not at national level and are under -16 or under -18 matches at the regional lev
 However, these activities are not to be seen in isolation but are to be regarded as 
 part of the overall scheme , and ecosystem  in which the game of cricket is 
 organized in India. Talent is spotted, at local levels and dependent on the promise 
-shown, given appropriate exposure.
-
-235. On a close scrutiny of the expenses borne, ha ving regard to the nature of 
+shown, given appropriate exposure.235. On a close scrutiny of the expenses borne, ha ving regard to the nature of 
 receipts, the expenditure incurred by Cricket Associations does not disclose that 
 any significant  proportion is expended  towards sustained or organized coaching 
 camps or academies. Therefore, in the opinion of this court, the I TAT fell into 
@@ -4586,8 +4320,6 @@ Citations:
 155: 1997 (Supp 4) SCR 189
 156: 2008 (9) SCC 337
 
-
-
 owned by the State Cricket Associations. According to the BCCI itself, the State 
 Associations can well bargain and enter into arrangements for the sale of such 
 media rights. However, to obtain better terms, and ga in bargaining leverage a 
@@ -4615,9 +4347,7 @@ is agreed upon by parties is a matter best left to them. These observations are 
 however, to be treated as final; the parties’ contentions in this regard are to be 
 considered on their merit.  
 (vi) Private trusts  
-(a) Tribune Trust
-
-239. The Tribune Trust was constituted pursuant to a will executed by late 
+(a) Tribune Trust239. The Tribune Trust was constituted pursuant to a will executed by late 
 Sardar Dial Singh Majithia. In clause (xxi) of his Will – after nominating three 
 trustees, the testator directed that they ought to maintain a press and a newspaper; 
 in clause (xx) the testator directed that his property in the Tribune Press and 
@@ -4644,9 +4374,7 @@ judgment of the Privy Council. In that judgment, this Court had made some
 observations that even though the activity of the publication of newspaper was 
 carried on commercial lines with the object of earning profit, it was an activity 
 engaged by the Trust for the purposes of carrying out its charitable objects. The 
-High Court u pheld the revenue’s contention and based upon its analysis of
-
-Section 2(15) concluded that the Trust’s income derived from its activities were 
+High Court u pheld the revenue’s contention and based upon its analysis ofSection 2(15) concluded that the Trust’s income derived from its activities were 
 based on profit motive. In doing so, it was noticed that 85% of the trust’s revenue 
 was from advertisements and i nterest. The total revenue was ₹161 crores out of 
 which ₹124.87 crores was received from advertisements and ₹11.38 crores from 
@@ -4673,9 +4401,7 @@ business ” or “ service in relation to trade, comm erce or business ”, for
 consideration. During the course of submissions, it was urged that advertisement 
 revenue should not be treated as business or commercial receipts since that 
 virtually is the lifeblood which sustains the activity of publication of  newspapers. 
-It was highlighted that the object of maintaining the activity of publishing and
-
-distribution of newspaper remains the advancement of general public utility, as it 
+It was highlighted that the object of maintaining the activity of publishing anddistribution of newspaper remains the advancement of general public utility, as it 
 has the effect of both notifying and educating the general public about the cur rent 
 affairs and developments. The inclusion of advertisements also serves as 
 information to the general public, especially in areas of employment, availability 
@@ -4702,9 +4428,7 @@ present case, that percentage had been exceeded, as evident from the record.
 impugned judgment and order of the Punjab and Haryana High Court cannot be 
 sustained, to the extent it holds that the Tribune trust is not a GPU charity. 
 However, having regard  to the factual analysis, the judgment needs no 
-interference.
-
-(b) Shri Balaji Samaj Vikas Samiti  
+interference.(b) Shri Balaji Samaj Vikas Samiti  
 247. The revenue appeals a decision of the Allahabad High Court157 affirming 
 the order of the ITAT which had directed the CIT to grant registration under 
 Section 12AA of the Income Tax Act.  
@@ -4734,8 +4458,6 @@ assessee society. The order of the ITAT as well as the High Court di sclosed tha
 Citations:
 157: Dated 09.02.2018 in ITA 49/2014.
 
-
-
 the assessee’s objects involved maintenance of health clubs, Arogya Kendra, 
 promotion of moral values and provision of emergency relief. These do not 
 however include the activity which it actually performed, i.e. , entering into 
@@ -4762,9 +4484,7 @@ apparent from the records that the tax effect is  less than Rs.10 lakhs. It is a
 that the receipt from the activities in the present case did not exceed the 
 quantitative limit of Rs.10 lakhs prescribed at the relevant time. In the 
 circumstances, the impugned order of the High Court does not call f or 
-interference.
-
-IV. Summation of conclusions  
+interference.IV. Summation of conclusions  
 253. In view of the foregoing discussion and analysis, the following conclusions 
 are recorded regarding the interpretation of the changed definition of “charitable 
 purpose” (w.e.f. 01.04.2009), as well as the lat er amendments, and other related 
@@ -4789,9 +4509,7 @@ services in relation thereto. It is only when the charges are markedly or
 significantly above the cost incurred by the asse ssee in question, that they would 
 fall within the mischief of “cess, or fee, or any other consideration”  towards 
 “trade, commerce or business”. In this regard, the Court has clarified through 
-illustrations what kind of services or goods provided on cost or nominal basis
-
-would normally be excluded from the mischief of trade, commerce, or business, 
+illustrations what kind of services or goods provided on cost or nominal basiswould normally be excluded from the mischief of trade, commerce, or business, 
 in the body  of the judgment.  
 A.4. Section 11(4A) must be interpreted harmoniously with Section 2(15), with 
 which there is no conflict. Carrying out activity in the nature of trade, commerce 
@@ -4818,9 +4536,7 @@ B.2. However, at the same time, in every case, the assessing authorities would
 have to apply their minds and scrutinize the records, to determine if, and to what 
 extent, the consideration or amounts charged are significantly higher  than the cost 
 and a nominal m ark-up. If such is the case, then the receipts would indicate that 
-the activities are in fact in the nature of “trade, commerce or business” and as a
-
-result, would have to comply with the quantified limit (as amended from time to 
+the activities are in fact in the nature of “trade, commerce or business” and as aresult, would have to comply with the quantified limit (as amended from time to 
 time) in the proviso to Se ction 2(15) of the IT Act.  
 B.3. In clause (b) of Section 10(46) of the IT Act, “commercial” has the same 
 meaning as “trade, commerce, business” in Section 2(15) of the IT Act. 
@@ -4847,9 +4563,7 @@ not business or commercial receipts. However, this is subject to the caveat that
 the assessing authorities discern that certain kinds of activities carried out by such 
 regulatory body involved charging of fees that are significantly higher  than the 
 cost incurred (with a nominal mark -up) or providing other  facilities or services 
-such as admission forms, coaching classes, registration processing fees, etc. , at
-
-markedly higher prices, those would constitute commerc ial or business receipts. 
+such as admission forms, coaching classes, registration processing fees, etc. , atmarkedly higher prices, those would constitute commerc ial or business receipts. 
 In that event, the overall quantitative limit prescribed in the proviso to Section 
 2(15) (as amended from time to time) has to be complied with, if the regulatory 
 body is to be considered as one with ‘charitable purpose’ eligible for exemption 
@@ -4875,9 +4589,7 @@ assessees are driven by charitable purposes. However , the claims of such non -
 statutory organisations performing public functions, will have to be ascertained 
 on a yearly basis, and the tax authorities must discern from the records, whether 
 the fees charged are nominally above the cost, or have been increase d to much 
-higher levels.
-
-E.2. It is held that though GS1 India  is in fact, involved in advancement of 
+higher levels.E.2. It is held that though GS1 India  is in fact, involved in advancement of 
 general public utility, its services are for the benefit of trade and business, from 
 which they receive significantly high receipts. In the circumstances, its claim for 
 exemption cannot succeed having regard to amend ed Section 2(15). However, 
@@ -4902,9 +4614,7 @@ received from advertisements, constituted business or commercial receipts.
 Consequently, the limit prescribed in the proviso to Section 2(15) has to be 
 adhered to for the Trust’s claim of being as a charity eligible for exemption, to 
 succeed.  Therefore, despite differing reasoning, this court has held that the 
-impugned judgment of the High Court does not call for interference.
-
-H. Application of interpretation  
+impugned judgment of the High Court does not call for interference.H. Application of interpretation  
 H. At the cost of repetition, it may be noted that the conclusions arrived at by 
 way of this judgment, neither precludes any of the assessees (whether statutory, 
 or non -statutory)  advancing objects of general public utility, from claiming 
@@ -4937,8 +4647,6 @@ Citations:
 165: CA No. 11259/2018
 166: D. No. 44856/2018
 167: CA No. 9200/2018
-
-
 
 Maritime Board168 and Karnataka Water Supp ly and Drainage Board169 are 
 rejected.  
@@ -4978,8 +4686,6 @@ Citations:
 186: SLP (C) No. 14574/2019
 187: C.A No. 3596/2018
 
-
-
 Authority188 and Karnataka Industrial Areas Development Board189 are 
 rejected.  
 (iii) The revenue’s appeals190 against ICAI are dismissed and for the same 
@@ -5012,8 +4718,6 @@ Citations:
 190: CA Nos. 8193/2012 , 5057/2012 and 4196/2015
 191: SLP (C) No. 23975/2012; and CA No. 5056/2012
 
-
-
 1404/2021, D. No. 19394 -2020, D. No. 19399 -2020, D. No. 19403 -2020, 
 SLP (C) No. 11486/2020, SLP (C) No. 11124/2020, D. No. 19449 -2020, 
 SLP (C) No. 12206/2020, D. No. 20986 -2020, D. No.2331 0-2020, SLP (C) 
@@ -5041,4 +4745,3 @@ applications, if any, are dismissed.
  
 New Delhi,  
 October 19 , 2022
-

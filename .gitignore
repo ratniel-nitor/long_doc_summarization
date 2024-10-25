@@ -64,3 +64,6 @@ __pycache__/
 *~
 .DS_Store
 Thumbs.db
+
+# local rate limiter data
+rate_limiter_data/
