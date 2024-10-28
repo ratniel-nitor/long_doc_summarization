@@ -32,6 +32,7 @@ google-auth-httplib2==0.2.0
 google-generativeai==0.5.4
 googleapis-common-protos==1.65.0
 greenlet==3.1.1
+groq==0.11.0
 grpcio==1.67.0
 grpcio-status==1.62.3
 h11==0.14.0
@@ -52,7 +53,11 @@ jupyter_client @ file:///home/conda/feedstock_root/build_artifacts/jupyter_clien
 jupyter_core @ file:///C:/b/abs_beftpbuevw/croot/jupyter_core_1718818307097/work
 llama-index-core==0.11.19
 llama-index-embeddings-huggingface==0.3.1
+llama-index-llms-cerebras==0.1.0
 llama-index-llms-gemini==0.3.7
+llama-index-llms-groq==0.2.0
+llama-index-llms-openai==0.2.16
+llama-index-llms-openai-like==0.2.0
 llama-index-readers-file==0.2.2
 llama-parse==0.5.10
 loguru==0.7.2
@@ -86,6 +91,8 @@ pyasn1_modules==0.4.1
 pydantic==2.9.2
 pydantic_core==2.23.4
 Pygments @ file:///home/conda/feedstock_root/build_artifacts/pygments_1714846767233/work
+PyMuPDF==1.24.12
+pymupdf4llm==0.0.17
 pyparsing==3.2.0
 pypdf==4.3.1
 python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1709299778482/work
