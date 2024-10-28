@@ -67,3 +67,9 @@ Thumbs.db
 
 # local rate limiter data
 rate_limiter_data/
+
+# Media
+*.jpg
+*.jpeg
+*.png
+*.gif

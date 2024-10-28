@@ -1,5 +1,4 @@
 import os
-
 import time
 import json
 import instructor
@@ -17,6 +16,8 @@ from llama_index.core.base.llms.types import (
     ChatResponse,
 )
 from tenacity import retry, wait_fixed, stop_after_attempt, retry_if_exception_type
+from enum import Enum
+from typing import Tuple, Optional
 
 from llama_index.llms.cerebras import Cerebras as LlamaIndexCerebras
 from llama_index.llms.groq import Groq as LlamaIndexGroq
@@ -27,44 +28,110 @@ load_dotenv()
 logger.add("model_loaders.log", rotation="10 MB", level="DEBUG")
 
 
+class ModelProvider(Enum):
+    """Enum for supported model providers"""
+    GEMINI = "gemini"
+    GROQ = "groq"
+    CEREBRAS = "cerebras"
+
+class ModelInfo:
+    """Model information and configuration"""
+    PROVIDER_CONFIGS = {
+        ModelProvider.GEMINI: {
+            "models": ["gemini-1.5-pro", "gemini-1.5-flash", "gemini-1.5-flash-002"],
+            "token_field": "usage_metadata",
+            "token_mapping": {
+                "prompt_tokens": "prompt_token_count",
+                "completion_tokens": "candidates_token_count",
+                "total_tokens": "total_token_count"
+            }
+        },
+        ModelProvider.GROQ: {
+            "models": ["llama-3.1-70b-versatile", "mixtral-8x7b-32768"],
+            "token_field": "usage",
+            "token_mapping": {
+                "prompt_tokens": "prompt_tokens",
+                "completion_tokens": "completion_tokens",
+                "total_tokens": "total_tokens"
+            }
+        },
+        ModelProvider.CEREBRAS: {
+            "models": ["llama3.1-70b"],
+            "token_field": "usage",
+            "token_mapping": {
+                "prompt_tokens": "prompt_tokens",
+                "completion_tokens": "completion_tokens",
+                "total_tokens": "total_tokens"
+            }
+        }
+    }
+
+    @classmethod
+    def get_provider(cls, model_name: str) -> ModelProvider:
+        """Determine provider from model name"""
+        model_name = model_name.lower()
+        if "gemini" in model_name:
+            return ModelProvider.GEMINI
+        elif any(name in model_name for name in ["llama", "mixtral"]):
+            # Determine based on model name pattern
+            if "groq" in model_name or any(m in model_name for m in cls.PROVIDER_CONFIGS[ModelProvider.GROQ]["models"]):
+                return ModelProvider.GROQ
+            return ModelProvider.CEREBRAS
+        else:
+            return ModelProvider.GEMINI  # default
+
+    @classmethod
+    def get_token_info(cls, provider: ModelProvider) -> Tuple[str, dict]:
+        """Get token field and mapping for a provider"""
+        config = cls.PROVIDER_CONFIGS[provider]
+        return config["token_field"], config["token_mapping"]
+
 class ModelInitializer:
     @staticmethod
-    def initialize_groq(
-        model_name: str = "llama-3.1-70b-versatile",
-        use_instructor: bool = False,
-        use_llamaindex: bool = False,
-    ) -> Any:
+    def initialize_model(
+        model_name: str,
+        api_key: Optional[str] = None,
+        use_llamaindex: bool = True
+    ) -> Tuple[Any, ModelProvider]:
         """
-        Initialize the Groq model (implementation not provided).
-
+        Initialize model and return with its provider information
+        
         Args:
-            model_name (str): The name of the model to initialize.
-            use_instructor (bool): Whether to use the instructor with the model.
-            use_llamaindex (bool): Whether to use LlamaIndex with the model.
-
+            model_name: Name of the model to initialize
+            api_key: Optional API key (if not in env)
+            use_llamaindex: Whether to use LlamaIndex interface
+            
         Returns:
-            Any: The initialized model or instructor-wrapped model.
+            Tuple of (initialized model, provider enum)
         """
-        from groq import Groq
-
-        groq_client = Groq(api_key=os.getenv("GROQ_API_KEY"))
-        logger.info(f"Initialized Groq client")
-
-        if use_instructor:
-            groq_client = instructor.from_groq(groq_client, mode=instructor.Mode.TOOLS)
-            logger.info("Using instructor with Groq")
-
-        if use_llamaindex:
-            from llama_index.llms.groq import Groq as LlamaIndexGroq
-
-            logger.info("Using LlamaIndex with Groq")
-            groq_client = RateLimitedGroq(
-                model=model_name, api_key=os.getenv("GROQ_API_KEY")
+        provider = ModelInfo.get_provider(model_name)
+        
+        if provider == ModelProvider.GEMINI:
+            # Ensure model name starts with 'models/'
+            if not model_name.startswith("models/"):
+                model_name = f"models/{model_name}"
+                
+            model = RateLimitedGemini(
+                model=model_name,
+                api_key=api_key or os.getenv("GOOGLE_API_KEY"),
+                temperature=0.3
             )
-            return groq_client
+        elif provider == ModelProvider.GROQ:
+            model = RateLimitedGroq(
+                model=model_name,
+                api_key=api_key or os.getenv("GROQ_API_KEY"),
+                temperature=0.3
+            )
+        elif provider == ModelProvider.CEREBRAS:
+            model = RateLimitedCerebras(
+                model=model_name,
+                api_key=api_key or os.getenv("CEREBRAS_API_KEY")
+            )
+        
+        logger.info(f"Initialized {provider.value} model: {model_name}")
+        return model, provider
 
-        return groq_client
-
+    # Keep existing individual initialization methods for backward compatibility
     @staticmethod
     def initialize_gemini(
         model_name: str = "models/gemini-1.5-flash-002",
@@ -106,6 +173,43 @@ class ModelInitializer:
             return client
 
         return client._model
+
+    @staticmethod
+    def initialize_groq(
+        model_name: str = "llama-3.1-70b-versatile",
+        use_instructor: bool = False,
+        use_llamaindex: bool = False,
+    ) -> Any:
+        """
+        Initialize the Groq model (implementation not provided).
+
+        Args:
+            model_name (str): The name of the model to initialize.
+            use_instructor (bool): Whether to use the instructor with the model.
+            use_llamaindex (bool): Whether to use LlamaIndex with the model.
+
+        Returns:
+            Any: The initialized model or instructor-wrapped model.
+        """
+        from groq import Groq
+
+        groq_client = Groq(api_key=os.getenv("GROQ_API_KEY"))
+        logger.info(f"Initialized Groq client")
+
+        if use_instructor:
+            groq_client = instructor.from_groq(groq_client, mode=instructor.Mode.TOOLS)
+            logger.info("Using instructor with Groq")
+
+        if use_llamaindex:
+            from llama_index.llms.groq import Groq as LlamaIndexGroq
+
+            logger.info("Using LlamaIndex with Groq")
+            groq_client = RateLimitedGroq(
+                model=model_name, api_key=os.getenv("GROQ_API_KEY")
+            )
+            return groq_client
+
+        return groq_client
 
     @staticmethod
     def initialize_cerebras(

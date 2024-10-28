@@ -2,10 +2,9 @@ from llama_index.core import Document
 from src.data_processing.data_loader import read_pdf_file
 from src.model_handlers.model_loaders import ModelInitializer
 from pydantic import BaseModel, Field, ValidationError
-from typing import List, Any, Optional, Dict
+from typing import List, Any
 from loguru import logger
 from tenacity import retry, stop_after_attempt, wait_exponential, retry_if_exception_type
-from enum import Enum
 import json
 
 MODEL_NAME = "gemini-1.5-flash-002"

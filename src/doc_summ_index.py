@@ -16,6 +16,7 @@ from llama_index.core import (
     Settings,
 )
 from datetime import datetime
+from src.prompts.doc_summary_prompts import FINAL_SUMMARY_QUERY, SECTION_QUERIES
 
 logger.info("Imports completed")
 
@@ -31,31 +32,6 @@ MODEL_LLM = "gemini-1.5-flash-002"
 MODEL_EMBEDDING = "BAAI/bge-small-en-v1.5"
 # MODEL_EMBEDDING = "jxm/cde-small-v1"
 
-final_summary_query = """
-You're an AI bot summarizing Indian court judgments and orders for legal professionals. Include all key legal details. Summarize the entire document, covering these points:
-
-1. Case Basics: Briefly describe the case type, parties involved (complainant, accused, etc.), and the main legal issues.  Start by listing the parties clearly.
-2. Factual Background: Concisely present the relevant facts of the dispute.
-3. Legal Arguments: Summarize each side's key arguments, noting undisputed points. Include specific legal provisions (with article/section numbers) used.
-4. Court's Analysis: Explain the court's reasoning on each point, highlighting evidence interpretation and legal principles applied. State the court's decision on each point.
-5. Decision and Outcome: Specify the court's final order and directives. In criminal cases, detail the offense, sentence, fines, or compensation.
-6. Other Relevant Information: Include details about acquittals and release orders, costs and compensation, compounding of offenses, and compensation to the accused for frivolous complaints.
-
-NOTE:
-- Refer to individuals (accused, witnesses) by their names and assigned numbers, if available.
-- When referencing individuals (accused, witnesses), use their designated numbers/nomenclature followed by their names (if needed, with the number in brackets).
-- Refer to exhibits by their exhibit number and brief description.
-- If the document is not a court judgment or order, or does not contain any legal information, return "The provided text is not a court judgment or order."
-
-IMPORTANT GUIDELINES:
-1. ONLY use information explicitly present in the provided text
-2. Do NOT make assumptions or inferences
-3. If specific information is not found, state "Information not found in the document"
-4. Use direct quotes where possible
-5. Include specific case numbers, dates, and names exactly as they appear 
-"""
-
-
 def generate_subsection_summary(
     nodes, section_name: str, response_synthesizer: BaseSynthesizer
 ) -> str:
@@ -70,7 +46,6 @@ def generate_subsection_summary(
         for i, text in enumerate(texts):
             logger.debug(f"Node {i} text: {text}")
 
-        # combined_text = " ".join(texts)
         summary_query = f"Based on the following text, provide a concise but detailed summary of {section_name}"
 
         logger.debug(f"Generating summary with query length: {len(summary_query)}")
@@ -98,7 +73,6 @@ def main():
             Settings.llm = ModelInitializer.initialize_gemini(
                 model_name=MODEL_LLM, use_llamaindex=True
             )
-            # Settings.llm = ModelInitializer.initialize_groq()
             logger.debug(f"Initialized LLM: {MODEL_LLM}")
 
             Settings.embed_model = HuggingFaceEmbedding(model_name=MODEL_EMBEDDING)
@@ -108,12 +82,10 @@ def main():
 
             response_synthesizer: BaseSynthesizer = get_response_synthesizer(
                 response_mode="tree_summarize",
-                # response_mode="refine",
                 use_async=True,
                 summary_template=PromptTemplate(
-                    final_summary_query, prompt_type=PromptType.SUMMARY
+                    FINAL_SUMMARY_QUERY, prompt_type=PromptType.SUMMARY
                 ),
-                # streaming=True,
             )
 
             doc_summary_index = DocumentSummaryIndex.from_documents(
@@ -127,53 +99,17 @@ def main():
             doc_retriever = doc_summary_index.as_retriever()
 
             summaries = {
-                "case_basics": generate_subsection_summary(
-                    doc_retriever.retrieve(
-                        "Describe the case type, parties involved (complainant, accused, etc.), and the main legal issues. Start by listing the parties clearly. If any information is not available, state 'information not available'."
-                    ),
-                    "case basics (including case type, parties involved, and main legal issues)",
+                section: generate_subsection_summary(
+                    doc_retriever.retrieve(query),
+                    f"{section.replace('_', ' ')}",
                     response_synthesizer,
-                ),
-                "factual_background": generate_subsection_summary(
-                    doc_retriever.retrieve(
-                        "Summarize the factual background of the dispute. If any information is not available, state 'information not available'."
-                    ),
-                    "factual background of the case",
-                    response_synthesizer,
-                ),
-                "legal_arguments": generate_subsection_summary(
-                    doc_retriever.retrieve(
-                        "Summarize each side's key arguments, noting undisputed points. Include specific legal provisions (with article/section numbers) used. If any information is not available, state 'information not available'."
-                    ),
-                    "legal arguments from all sides",
-                    response_synthesizer,
-                ),
-                "court_analysis": generate_subsection_summary(
-                    doc_retriever.retrieve(
-                        "Explain the court's reasoning on each point, highlighting evidence interpretation and legal principles applied. If any information is not available, state 'information not available'."
-                    ),
-                    "court's analysis and reasoning",
-                    response_synthesizer,
-                ),
-                "decision_outcome": generate_subsection_summary(
-                    doc_retriever.retrieve(
-                        "Specify the court's final order and directives. In criminal cases, detail the offense, sentence, fines, or compensation. Include details about acquittals and release orders, costs and compensation, compounding of offenses, and compensation to the accused for frivolous complaints. If any information is not available, state 'information not available'."
-                    ),
-                    "court's final decision and directives",
-                    response_synthesizer,
-                ),
-                "other_relevant": generate_subsection_summary(
-                    doc_retriever.retrieve(
-                        "Include details about acquittals and release orders, costs and compensation, compounding of offenses, and compensation to the accused for frivolous complaints. If any information is not available, state 'information not available'."
-                    ),
-                    "other relevant information",
-                    response_synthesizer,
-                ),
+                )
+                for section, query in SECTION_QUERIES.items()
             }
 
             # Generate the final summary at once for the whole pdf
             query_engine = doc_summary_index.as_query_engine()
-            summary = query_engine.query(final_summary_query)
+            summary = query_engine.query(FINAL_SUMMARY_QUERY)
             logger.info("Document Summary sample:")
             logger.info(summary)
 
@@ -189,7 +125,7 @@ def main():
                             "file_name": TEST_FILE,
                             "model": {"llm": MODEL_LLM, "embedding": MODEL_EMBEDDING},
                             "structured_summary": summaries,
-                            "prompt": final_summary_query,
+                            "prompt": FINAL_SUMMARY_QUERY,
                         },
                         f,
                         indent=2,
