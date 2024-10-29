@@ -1,5 +1,5 @@
-from typing import List, Optional, Dict
-from pydantic import BaseModel, Field
+from typing import List, Optional
+from pydantic import BaseModel
 
 system_prompt = """
 # Summary of [Document Title]
